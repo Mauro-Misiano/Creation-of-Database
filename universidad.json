@@ -1,0 +1,5274 @@
+{
+    "dimensiones": {
+        "estudiantes": [
+            {
+                "id_estudiante": 1,
+                "nombre": "Cecilio",
+                "apellido": "Salvador",
+                "edad": 23,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Le\u00f3n",
+                "pais": "Irlanda"
+            },
+            {
+                "id_estudiante": 2,
+                "nombre": "Salom\u00f3n",
+                "apellido": "Somoza",
+                "edad": 28,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Las Palmas",
+                "pais": "Libia"
+            },
+            {
+                "id_estudiante": 3,
+                "nombre": "C\u00e1ndido",
+                "apellido": "Figueras",
+                "edad": 19,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "\u00c1lava",
+                "pais": "Guinea Bissau"
+            },
+            {
+                "id_estudiante": 4,
+                "nombre": "Victorino",
+                "apellido": "Casas",
+                "edad": 30,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Ja\u00e9n",
+                "pais": "Rep\u00fablica de Corea"
+            },
+            {
+                "id_estudiante": 5,
+                "nombre": "Juan Luis",
+                "apellido": "Pastor",
+                "edad": 24,
+                "sexo": "masculino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Castell\u00f3n",
+                "pais": "Congo"
+            },
+            {
+                "id_estudiante": 6,
+                "nombre": "Hilda",
+                "apellido": "Falc\u00f3",
+                "edad": 30,
+                "sexo": "masculino",
+                "carrera": "Derecho",
+                "ciudad": "Sevilla",
+                "pais": "Benin"
+            },
+            {
+                "id_estudiante": 7,
+                "nombre": "Marino",
+                "apellido": "M\u00fa\u00f1iz",
+                "edad": 21,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "La Coru\u00f1a",
+                "pais": "Rep\u00fablica Democr\u00e1tica Popular Lao"
+            },
+            {
+                "id_estudiante": 8,
+                "nombre": "Benigna",
+                "apellido": "Duarte",
+                "edad": 21,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Badajoz",
+                "pais": "Nauru"
+            },
+            {
+                "id_estudiante": 9,
+                "nombre": "Seve",
+                "apellido": "Sanabria",
+                "edad": 19,
+                "sexo": "masculino",
+                "carrera": "Derecho",
+                "ciudad": "Madrid",
+                "pais": "Malasia"
+            },
+            {
+                "id_estudiante": 10,
+                "nombre": "Melisa",
+                "apellido": "Torre",
+                "edad": 26,
+                "sexo": "femenino",
+                "carrera": "Medicina",
+                "ciudad": "La Coru\u00f1a",
+                "pais": "Ucrania"
+            },
+            {
+                "id_estudiante": 11,
+                "nombre": "Isabel",
+                "apellido": "Roman",
+                "edad": 22,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Barcelona",
+                "pais": "Papua Nueva Guinea"
+            },
+            {
+                "id_estudiante": 12,
+                "nombre": "Xiomara",
+                "apellido": "Montenegro",
+                "edad": 25,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "La Rioja",
+                "pais": "Kenya"
+            },
+            {
+                "id_estudiante": 13,
+                "nombre": "Paz",
+                "apellido": "L\u00f3pez",
+                "edad": 26,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Toledo",
+                "pais": "M\u00e9xico"
+            },
+            {
+                "id_estudiante": 14,
+                "nombre": "Victor",
+                "apellido": "Checa",
+                "edad": 25,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Pontevedra",
+                "pais": "Tayikist\u00e1n"
+            },
+            {
+                "id_estudiante": 15,
+                "nombre": "Ruperto",
+                "apellido": "Martin",
+                "edad": 24,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "Pontevedra",
+                "pais": "Camboya"
+            },
+            {
+                "id_estudiante": 16,
+                "nombre": "Eligia",
+                "apellido": "Marcos",
+                "edad": 26,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Cuenca",
+                "pais": "Vietman"
+            },
+            {
+                "id_estudiante": 17,
+                "nombre": "Valero",
+                "apellido": "Alem\u00e1n",
+                "edad": 21,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Guip\u00fazcoa",
+                "pais": "Palau"
+            },
+            {
+                "id_estudiante": 18,
+                "nombre": "Seve",
+                "apellido": "Verd\u00fa",
+                "edad": 23,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "C\u00f3rdoba",
+                "pais": "Turkmenist\u00e1n"
+            },
+            {
+                "id_estudiante": 19,
+                "nombre": "Claudio",
+                "apellido": "Puga",
+                "edad": 30,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Ceuta",
+                "pais": "Palau"
+            },
+            {
+                "id_estudiante": 20,
+                "nombre": "Tito",
+                "apellido": "Robledo",
+                "edad": 25,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Burgos",
+                "pais": "Ecuador"
+            },
+            {
+                "id_estudiante": 21,
+                "nombre": "Paola",
+                "apellido": "Manso",
+                "edad": 24,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Huesca",
+                "pais": "Afganist\u00e1n"
+            },
+            {
+                "id_estudiante": 22,
+                "nombre": "Florina",
+                "apellido": "Salda\u00f1a",
+                "edad": 22,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Ciudad",
+                "pais": "Croacia"
+            },
+            {
+                "id_estudiante": 23,
+                "nombre": "Calixto",
+                "apellido": "Moya",
+                "edad": 22,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Soria",
+                "pais": "Bhut\u00e1n"
+            },
+            {
+                "id_estudiante": 24,
+                "nombre": "Florencio",
+                "apellido": "Puig",
+                "edad": 20,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Girona",
+                "pais": "B\u00e9lgica"
+            },
+            {
+                "id_estudiante": 25,
+                "nombre": "Marcio",
+                "apellido": "Mate",
+                "edad": 22,
+                "sexo": "masculino",
+                "carrera": "Derecho",
+                "ciudad": "Huelva",
+                "pais": "Bosnia y Herzegovina"
+            },
+            {
+                "id_estudiante": 26,
+                "nombre": "Ruperto",
+                "apellido": "Alberdi",
+                "edad": 21,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Cuenca",
+                "pais": "M\u00f3naco"
+            },
+            {
+                "id_estudiante": 27,
+                "nombre": "Julieta",
+                "apellido": "Otero",
+                "edad": 22,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Ja\u00e9n",
+                "pais": "Tailandia"
+            },
+            {
+                "id_estudiante": 28,
+                "nombre": "Regina",
+                "apellido": "Lerma",
+                "edad": 27,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Barcelona",
+                "pais": "Zambia"
+            },
+            {
+                "id_estudiante": 29,
+                "nombre": "Ariel",
+                "apellido": "Camacho",
+                "edad": 24,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Cuenca",
+                "pais": "Guyana"
+            },
+            {
+                "id_estudiante": 30,
+                "nombre": "Graciano",
+                "apellido": "Llabr\u00e9s",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Guip\u00fazcoa",
+                "pais": "Santo Tom\u00e9 y Pr\u00edncipe"
+            },
+            {
+                "id_estudiante": 31,
+                "nombre": "Perlita",
+                "apellido": "Pont",
+                "edad": 29,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Zamora",
+                "pais": "Somalia"
+            },
+            {
+                "id_estudiante": 32,
+                "nombre": "N\u00e9stor",
+                "apellido": "Riera",
+                "edad": 24,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "\u00c1lava",
+                "pais": "Croacia"
+            },
+            {
+                "id_estudiante": 33,
+                "nombre": "Jacinta",
+                "apellido": "Rivera",
+                "edad": 22,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Baleares",
+                "pais": "Armenia"
+            },
+            {
+                "id_estudiante": 34,
+                "nombre": "Carlos",
+                "apellido": "Matas",
+                "edad": 26,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "La Rioja",
+                "pais": "Tailandia"
+            },
+            {
+                "id_estudiante": 35,
+                "nombre": "Elisabet",
+                "apellido": "Gomila",
+                "edad": 19,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Navarra",
+                "pais": "Bolivia"
+            },
+            {
+                "id_estudiante": 36,
+                "nombre": "Gonzalo",
+                "apellido": "Plana",
+                "edad": 30,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Castell\u00f3n",
+                "pais": "Libia"
+            },
+            {
+                "id_estudiante": 37,
+                "nombre": "Jovita",
+                "apellido": "Capdevila",
+                "edad": 27,
+                "sexo": "femenino",
+                "carrera": "Medicina",
+                "ciudad": "Badajoz",
+                "pais": "Rep\u00fablica de Macedonia del Norte"
+            },
+            {
+                "id_estudiante": 38,
+                "nombre": "Severino",
+                "apellido": "Cuevas",
+                "edad": 23,
+                "sexo": "femenino",
+                "carrera": "Medicina",
+                "ciudad": "Segovia",
+                "pais": "Estonia"
+            },
+            {
+                "id_estudiante": 39,
+                "nombre": "Cornelio",
+                "apellido": "Bl\u00e1zquez",
+                "edad": 27,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Toledo",
+                "pais": "Rep\u00fablica Dominicana"
+            },
+            {
+                "id_estudiante": 40,
+                "nombre": "Judith",
+                "apellido": "Aparicio",
+                "edad": 21,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Murcia",
+                "pais": "Turqu\u00eda"
+            },
+            {
+                "id_estudiante": 41,
+                "nombre": "Victor",
+                "apellido": "Castells",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "Pontevedra",
+                "pais": "Bangladesh"
+            },
+            {
+                "id_estudiante": 42,
+                "nombre": "Horacio",
+                "apellido": "Grande",
+                "edad": 26,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Cuenca",
+                "pais": "Pakist\u00e1n"
+            },
+            {
+                "id_estudiante": 43,
+                "nombre": "Victor Manuel",
+                "apellido": "Valls",
+                "edad": 22,
+                "sexo": "femenino",
+                "carrera": "Medicina",
+                "ciudad": "Alicante",
+                "pais": "Islas Marshall"
+            },
+            {
+                "id_estudiante": 44,
+                "nombre": "\u00c1frica",
+                "apellido": "Oliver",
+                "edad": 26,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Valencia",
+                "pais": "Alemania"
+            },
+            {
+                "id_estudiante": 45,
+                "nombre": "Arturo",
+                "apellido": "Tejera",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "\u00c1lava",
+                "pais": "Rep\u00fablica Popular Democr\u00e1tica de Corea"
+            },
+            {
+                "id_estudiante": 46,
+                "nombre": "Tatiana",
+                "apellido": "Bou",
+                "edad": 26,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "\u00c1lava",
+                "pais": "Belar\u00fas"
+            },
+            {
+                "id_estudiante": 47,
+                "nombre": "Ana Sof\u00eda",
+                "apellido": "Montesinos",
+                "edad": 20,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Zamora",
+                "pais": "Armenia"
+            },
+            {
+                "id_estudiante": 48,
+                "nombre": "Mateo",
+                "apellido": "Salv\u00e0",
+                "edad": 19,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "Segovia",
+                "pais": "Gambia"
+            },
+            {
+                "id_estudiante": 49,
+                "nombre": "Bonifacio",
+                "apellido": "Manuel",
+                "edad": 20,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Almer\u00eda",
+                "pais": "Federaci\u00f3n de Rusia"
+            },
+            {
+                "id_estudiante": 50,
+                "nombre": "Delfina",
+                "apellido": "Manrique",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Melilla",
+                "pais": "Rep\u00fablica Unida de Tanzan\u00eda"
+            },
+            {
+                "id_estudiante": 51,
+                "nombre": "Faustino",
+                "apellido": "Casal",
+                "edad": 30,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "\u00c1vila",
+                "pais": "Tailandia"
+            },
+            {
+                "id_estudiante": 52,
+                "nombre": "Soledad",
+                "apellido": "Rueda",
+                "edad": 22,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "C\u00f3rdoba",
+                "pais": "Chile"
+            },
+            {
+                "id_estudiante": 53,
+                "nombre": "Cristian",
+                "apellido": "Pe\u00f1a",
+                "edad": 24,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Lleida",
+                "pais": "Lituania"
+            },
+            {
+                "id_estudiante": 54,
+                "nombre": "Calista",
+                "apellido": "Ortega",
+                "edad": 30,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "M\u00e1laga",
+                "pais": "Irlanda"
+            },
+            {
+                "id_estudiante": 55,
+                "nombre": "Iris",
+                "apellido": "Casas",
+                "edad": 25,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Badajoz",
+                "pais": "Chile"
+            },
+            {
+                "id_estudiante": 56,
+                "nombre": "Esteban",
+                "apellido": "Burgos",
+                "edad": 20,
+                "sexo": "masculino",
+                "carrera": "Derecho",
+                "ciudad": "Madrid",
+                "pais": "B\u00e9lgica"
+            },
+            {
+                "id_estudiante": 57,
+                "nombre": "Clementina",
+                "apellido": "Armas",
+                "edad": 18,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Murcia",
+                "pais": "Italia"
+            },
+            {
+                "id_estudiante": 58,
+                "nombre": "Pilar",
+                "apellido": "Zorrilla",
+                "edad": 22,
+                "sexo": "masculino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Palencia",
+                "pais": "Rep\u00fablica de Moldova"
+            },
+            {
+                "id_estudiante": 59,
+                "nombre": "Flavia",
+                "apellido": "Alcal\u00e1",
+                "edad": 20,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Lleida",
+                "pais": "Djibouti"
+            },
+            {
+                "id_estudiante": 60,
+                "nombre": "Mariano",
+                "apellido": "Pereira",
+                "edad": 27,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Pontevedra",
+                "pais": "Finlandia"
+            },
+            {
+                "id_estudiante": 61,
+                "nombre": "Julio C\u00e9sar",
+                "apellido": "Benet",
+                "edad": 29,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "C\u00e1diz",
+                "pais": "Rep\u00fablica Centroafricana"
+            },
+            {
+                "id_estudiante": 62,
+                "nombre": "Vinicio",
+                "apellido": "Murillo",
+                "edad": 30,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Guadalajara",
+                "pais": "Botswana"
+            },
+            {
+                "id_estudiante": 63,
+                "nombre": "Felicidad",
+                "apellido": "Mariscal",
+                "edad": 22,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Segovia",
+                "pais": "Togo"
+            },
+            {
+                "id_estudiante": 64,
+                "nombre": "Jaime",
+                "apellido": "Gilabert",
+                "edad": 18,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "C\u00e1ceres",
+                "pais": "Pa\u00edses Bajos"
+            },
+            {
+                "id_estudiante": 65,
+                "nombre": "Cintia",
+                "apellido": "Batlle",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "Navarra",
+                "pais": "Chile"
+            },
+            {
+                "id_estudiante": 66,
+                "nombre": "Mar\u00eda",
+                "apellido": "Ballester",
+                "edad": 26,
+                "sexo": "femenino",
+                "carrera": "Medicina",
+                "ciudad": "Cantabria",
+                "pais": "Guinea"
+            },
+            {
+                "id_estudiante": 67,
+                "nombre": "Alfonso",
+                "apellido": "Salamanca",
+                "edad": 21,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Guip\u00fazcoa",
+                "pais": "Hungr\u00eda"
+            },
+            {
+                "id_estudiante": 68,
+                "nombre": "Seve",
+                "apellido": "Royo",
+                "edad": 23,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Melilla",
+                "pais": "Rep\u00fablica de Moldova"
+            },
+            {
+                "id_estudiante": 69,
+                "nombre": "Trini",
+                "apellido": "M\u00ednguez",
+                "edad": 24,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "C\u00e1ceres",
+                "pais": "Namibia"
+            },
+            {
+                "id_estudiante": 70,
+                "nombre": "Rafaela",
+                "apellido": "Ochoa",
+                "edad": 24,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "Castell\u00f3n",
+                "pais": "Rep\u00fablica de Moldova"
+            },
+            {
+                "id_estudiante": 71,
+                "nombre": "Cleto",
+                "apellido": "Rebollo",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "Pontevedra",
+                "pais": "Granada"
+            },
+            {
+                "id_estudiante": 72,
+                "nombre": "Asunci\u00f3n",
+                "apellido": "Agust\u00edn",
+                "edad": 27,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Castell\u00f3n",
+                "pais": "Sud\u00e1n"
+            },
+            {
+                "id_estudiante": 73,
+                "nombre": "Azeneth",
+                "apellido": "Zamora",
+                "edad": 30,
+                "sexo": "femenino",
+                "carrera": "Medicina",
+                "ciudad": "Madrid",
+                "pais": "Azerbaiy\u00e1n"
+            },
+            {
+                "id_estudiante": 74,
+                "nombre": "Genoveva",
+                "apellido": "Guzm\u00e1n",
+                "edad": 23,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Barcelona",
+                "pais": "Andorra"
+            },
+            {
+                "id_estudiante": 75,
+                "nombre": "Leocadio",
+                "apellido": "Uriarte",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "Madrid",
+                "pais": "Kazajst\u00e1n"
+            },
+            {
+                "id_estudiante": 76,
+                "nombre": "Ariel",
+                "apellido": "Pascual",
+                "edad": 23,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Zamora",
+                "pais": "Uganda"
+            },
+            {
+                "id_estudiante": 77,
+                "nombre": "Esther",
+                "apellido": "Martin",
+                "edad": 21,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Zamora",
+                "pais": "Bosnia y Herzegovina"
+            },
+            {
+                "id_estudiante": 78,
+                "nombre": "Eligio",
+                "apellido": "Portero",
+                "edad": 22,
+                "sexo": "masculino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Vizcaya",
+                "pais": "India"
+            },
+            {
+                "id_estudiante": 79,
+                "nombre": "Joel",
+                "apellido": "Luz",
+                "edad": 24,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Segovia",
+                "pais": "Venezuela"
+            },
+            {
+                "id_estudiante": 80,
+                "nombre": "Jesusa",
+                "apellido": "Alcalde",
+                "edad": 28,
+                "sexo": "femenino",
+                "carrera": "Medicina",
+                "ciudad": "C\u00e1ceres",
+                "pais": "Tayikist\u00e1n"
+            },
+            {
+                "id_estudiante": 81,
+                "nombre": "Maribel",
+                "apellido": "Barrio",
+                "edad": 24,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "La Coru\u00f1a",
+                "pais": "Austria"
+            },
+            {
+                "id_estudiante": 82,
+                "nombre": "Mamen",
+                "apellido": "Aroca",
+                "edad": 29,
+                "sexo": "femenino",
+                "carrera": "Derecho",
+                "ciudad": "C\u00e1diz",
+                "pais": "Croacia"
+            },
+            {
+                "id_estudiante": 83,
+                "nombre": "Ismael",
+                "apellido": "Raya",
+                "edad": 18,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "La Rioja",
+                "pais": "Belice"
+            },
+            {
+                "id_estudiante": 84,
+                "nombre": "Cristian",
+                "apellido": "Amig\u00f3",
+                "edad": 19,
+                "sexo": "masculino",
+                "carrera": "Derecho",
+                "ciudad": "M\u00e1laga",
+                "pais": "Papua Nueva Guinea"
+            },
+            {
+                "id_estudiante": 85,
+                "nombre": "Mar\u00eda Jes\u00fas",
+                "apellido": "Montalb\u00e1n",
+                "edad": 27,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Le\u00f3n",
+                "pais": "Camboya"
+            },
+            {
+                "id_estudiante": 86,
+                "nombre": "Paloma",
+                "apellido": "Diez",
+                "edad": 19,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "C\u00e1ceres",
+                "pais": "Ghana"
+            },
+            {
+                "id_estudiante": 87,
+                "nombre": "Macario",
+                "apellido": "Reina",
+                "edad": 22,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Guip\u00fazcoa",
+                "pais": "Paraguay"
+            },
+            {
+                "id_estudiante": 88,
+                "nombre": "Perla",
+                "apellido": "Carre\u00f1o",
+                "edad": 29,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Albacete",
+                "pais": "Finlandia"
+            },
+            {
+                "id_estudiante": 89,
+                "nombre": "Evelia",
+                "apellido": "Arranz",
+                "edad": 29,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Ja\u00e9n",
+                "pais": "Rep\u00fablica de Corea"
+            },
+            {
+                "id_estudiante": 90,
+                "nombre": "Aristides",
+                "apellido": "Donaire",
+                "edad": 20,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Palencia",
+                "pais": "Sud\u00e1n"
+            },
+            {
+                "id_estudiante": 91,
+                "nombre": "Asunci\u00f3n",
+                "apellido": "Almeida",
+                "edad": 22,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Granada",
+                "pais": "Chipre"
+            },
+            {
+                "id_estudiante": 92,
+                "nombre": "Ulises",
+                "apellido": "Ballesteros",
+                "edad": 21,
+                "sexo": "masculino",
+                "carrera": "Medicina",
+                "ciudad": "Ciudad",
+                "pais": "Nigeria"
+            },
+            {
+                "id_estudiante": 93,
+                "nombre": "Primitiva",
+                "apellido": "Font",
+                "edad": 22,
+                "sexo": "masculino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Alicante",
+                "pais": "Venezuela"
+            },
+            {
+                "id_estudiante": 94,
+                "nombre": "Heraclio",
+                "apellido": "\u00c1lamo",
+                "edad": 21,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "La Coru\u00f1a",
+                "pais": "Yemen"
+            },
+            {
+                "id_estudiante": 95,
+                "nombre": "Patricio",
+                "apellido": "Vazquez",
+                "edad": 18,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Vizcaya",
+                "pais": "Saint Kitts y Nevis"
+            },
+            {
+                "id_estudiante": 96,
+                "nombre": "Estrella",
+                "apellido": "Figueroa",
+                "edad": 23,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Toledo",
+                "pais": "Rep\u00fablica de Macedonia del Norte"
+            },
+            {
+                "id_estudiante": 97,
+                "nombre": "R\u00f3mulo",
+                "apellido": "Agust\u00ed",
+                "edad": 23,
+                "sexo": "femenino",
+                "carrera": "Psicolog\u00eda",
+                "ciudad": "Huesca",
+                "pais": "Alemania"
+            },
+            {
+                "id_estudiante": 98,
+                "nombre": "Gertrudis",
+                "apellido": "Espa\u00f1ol",
+                "edad": 18,
+                "sexo": "femenino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Guadalajara",
+                "pais": "Chile"
+            },
+            {
+                "id_estudiante": 99,
+                "nombre": "Olivia",
+                "apellido": "Jerez",
+                "edad": 26,
+                "sexo": "femenino",
+                "carrera": "Econom\u00eda",
+                "ciudad": "Ciudad",
+                "pais": "Jap\u00f3n"
+            },
+            {
+                "id_estudiante": 100,
+                "nombre": "Conrado",
+                "apellido": "Casado",
+                "edad": 21,
+                "sexo": "masculino",
+                "carrera": "Ingenier\u00eda",
+                "ciudad": "Le\u00f3n",
+                "pais": "Palau"
+            }
+        ],
+        "profesores": [
+            {
+                "id_profesor": 1,
+                "nombre": "Florentino",
+                "apellido": "Gal\u00e1n",
+                "edad": 45,
+                "sexo": "masculino",
+                "departamento": "Derecho",
+                "ciudad": "Valencia",
+                "pais": "Niger"
+            },
+            {
+                "id_profesor": 2,
+                "nombre": "Concha",
+                "apellido": "Rosell\u00f3",
+                "edad": 54,
+                "sexo": "femenino",
+                "departamento": "Derecho",
+                "ciudad": "M\u00e1laga",
+                "pais": "Chad"
+            },
+            {
+                "id_profesor": 3,
+                "nombre": "Flavia",
+                "apellido": "Roura",
+                "edad": 48,
+                "sexo": "femenino",
+                "departamento": "Psicolog\u00eda",
+                "ciudad": "Alicante",
+                "pais": "Santa Luc\u00eda"
+            },
+            {
+                "id_profesor": 4,
+                "nombre": "Victorino",
+                "apellido": "Oca\u00f1a",
+                "edad": 56,
+                "sexo": "masculino",
+                "departamento": "Ingenier\u00eda",
+                "ciudad": "Granada",
+                "pais": "Finlandia"
+            },
+            {
+                "id_profesor": 5,
+                "nombre": "Germ\u00e1n",
+                "apellido": "Le\u00f3n",
+                "edad": 60,
+                "sexo": "femenino",
+                "departamento": "Ingenier\u00eda",
+                "ciudad": "La Rioja",
+                "pais": "Belice"
+            },
+            {
+                "id_profesor": 6,
+                "nombre": "Crist\u00f3bal",
+                "apellido": "Guijarro",
+                "edad": 37,
+                "sexo": "femenino",
+                "departamento": "Ingenier\u00eda",
+                "ciudad": "Guip\u00fazcoa",
+                "pais": "Jap\u00f3n"
+            },
+            {
+                "id_profesor": 7,
+                "nombre": "Raimundo",
+                "apellido": "Mart\u00edn",
+                "edad": 44,
+                "sexo": "femenino",
+                "departamento": "Derecho",
+                "ciudad": "La Rioja",
+                "pais": "Benin"
+            },
+            {
+                "id_profesor": 8,
+                "nombre": "Pepita",
+                "apellido": "Chaves",
+                "edad": 37,
+                "sexo": "femenino",
+                "departamento": "Medicina",
+                "ciudad": "Baleares",
+                "pais": "Espa\u00f1a"
+            },
+            {
+                "id_profesor": 9,
+                "nombre": "Jos\u00e9",
+                "apellido": "Colomer",
+                "edad": 54,
+                "sexo": "femenino",
+                "departamento": "Derecho",
+                "ciudad": "Baleares",
+                "pais": "Austria"
+            },
+            {
+                "id_profesor": 10,
+                "nombre": "Bienvenida",
+                "apellido": "Losa",
+                "edad": 42,
+                "sexo": "masculino",
+                "departamento": "Econom\u00eda",
+                "ciudad": "Badajoz",
+                "pais": "Islas Salom\u00f3n"
+            },
+            {
+                "id_profesor": 11,
+                "nombre": "Gema",
+                "apellido": "Mir",
+                "edad": 46,
+                "sexo": "masculino",
+                "departamento": "Derecho",
+                "ciudad": "Castell\u00f3n",
+                "pais": "Uruguay"
+            },
+            {
+                "id_profesor": 12,
+                "nombre": "Ren\u00e9",
+                "apellido": "Casas",
+                "edad": 54,
+                "sexo": "masculino",
+                "departamento": "Ingenier\u00eda",
+                "ciudad": "Le\u00f3n",
+                "pais": "Rep\u00fablica Popular Democr\u00e1tica de Corea"
+            },
+            {
+                "id_profesor": 13,
+                "nombre": "Alcides",
+                "apellido": "Cuervo",
+                "edad": 31,
+                "sexo": "femenino",
+                "departamento": "Medicina",
+                "ciudad": "Asturias",
+                "pais": "Paraguay"
+            },
+            {
+                "id_profesor": 14,
+                "nombre": "Julieta",
+                "apellido": "Abella",
+                "edad": 50,
+                "sexo": "femenino",
+                "departamento": "Psicolog\u00eda",
+                "ciudad": "Cantabria",
+                "pais": "Islandia"
+            },
+            {
+                "id_profesor": 15,
+                "nombre": "Maxi",
+                "apellido": "Donaire",
+                "edad": 45,
+                "sexo": "femenino",
+                "departamento": "Medicina",
+                "ciudad": "Girona",
+                "pais": "Kirguist\u00e1n"
+            },
+            {
+                "id_profesor": 16,
+                "nombre": "Vera",
+                "apellido": "Pintor",
+                "edad": 58,
+                "sexo": "masculino",
+                "departamento": "Econom\u00eda",
+                "ciudad": "Guip\u00fazcoa",
+                "pais": "Finlandia"
+            },
+            {
+                "id_profesor": 17,
+                "nombre": "Amada",
+                "apellido": "Galv\u00e1n",
+                "edad": 58,
+                "sexo": "femenino",
+                "departamento": "Ingenier\u00eda",
+                "ciudad": "C\u00e1diz",
+                "pais": "Estonia"
+            },
+            {
+                "id_profesor": 18,
+                "nombre": "Alma",
+                "apellido": "Escolano",
+                "edad": 58,
+                "sexo": "masculino",
+                "departamento": "Medicina",
+                "ciudad": "Salamanca",
+                "pais": "San Vicente y las Granadinas"
+            },
+            {
+                "id_profesor": 19,
+                "nombre": "Berta",
+                "apellido": "Cerezo",
+                "edad": 41,
+                "sexo": "masculino",
+                "departamento": "Derecho",
+                "ciudad": "Ceuta",
+                "pais": "Uruguay"
+            },
+            {
+                "id_profesor": 20,
+                "nombre": "\u00c1ngela",
+                "apellido": "Arteaga",
+                "edad": 34,
+                "sexo": "femenino",
+                "departamento": "Medicina",
+                "ciudad": "Huelva",
+                "pais": "Argentina"
+            }
+        ],
+        "cursos": [
+            {
+                "id_curso": 1,
+                "nombre": "Tempore",
+                "departamento": "Derecho",
+                "horas_semanales": 7
+            },
+            {
+                "id_curso": 2,
+                "nombre": "Expedita",
+                "departamento": "Psicolog\u00eda",
+                "horas_semanales": 4
+            },
+            {
+                "id_curso": 3,
+                "nombre": "Labore",
+                "departamento": "Econom\u00eda",
+                "horas_semanales": 5
+            },
+            {
+                "id_curso": 4,
+                "nombre": "Repellendus",
+                "departamento": "Ingenier\u00eda",
+                "horas_semanales": 5
+            },
+            {
+                "id_curso": 5,
+                "nombre": "Reiciendis",
+                "departamento": "Econom\u00eda",
+                "horas_semanales": 5
+            },
+            {
+                "id_curso": 6,
+                "nombre": "Dolorum",
+                "departamento": "Ingenier\u00eda",
+                "horas_semanales": 6
+            },
+            {
+                "id_curso": 7,
+                "nombre": "At",
+                "departamento": "Medicina",
+                "horas_semanales": 4
+            },
+            {
+                "id_curso": 8,
+                "nombre": "Quas",
+                "departamento": "Ingenier\u00eda",
+                "horas_semanales": 8
+            },
+            {
+                "id_curso": 9,
+                "nombre": "Fugiat",
+                "departamento": "Derecho",
+                "horas_semanales": 3
+            },
+            {
+                "id_curso": 10,
+                "nombre": "Ab",
+                "departamento": "Derecho",
+                "horas_semanales": 4
+            }
+        ]
+    },
+    "hechos": {
+        "calificaciones": [
+            {
+                "id_calificacion": 1,
+                "id_estudiante": 79,
+                "id_profesor": 11,
+                "id_curso": 4,
+                "calificacion": 4.01,
+                "fecha": "2021-12-17"
+            },
+            {
+                "id_calificacion": 2,
+                "id_estudiante": 77,
+                "id_profesor": 19,
+                "id_curso": 10,
+                "calificacion": 4.95,
+                "fecha": "2023-10-20"
+            },
+            {
+                "id_calificacion": 3,
+                "id_estudiante": 83,
+                "id_profesor": 7,
+                "id_curso": 6,
+                "calificacion": 1.76,
+                "fecha": "2023-07-09"
+            },
+            {
+                "id_calificacion": 4,
+                "id_estudiante": 12,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 0.19,
+                "fecha": "2023-12-30"
+            },
+            {
+                "id_calificacion": 5,
+                "id_estudiante": 76,
+                "id_profesor": 6,
+                "id_curso": 1,
+                "calificacion": 4.16,
+                "fecha": "2021-04-20"
+            },
+            {
+                "id_calificacion": 6,
+                "id_estudiante": 79,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 9.65,
+                "fecha": "2022-10-31"
+            },
+            {
+                "id_calificacion": 7,
+                "id_estudiante": 20,
+                "id_profesor": 19,
+                "id_curso": 3,
+                "calificacion": 1.35,
+                "fecha": "2023-12-03"
+            },
+            {
+                "id_calificacion": 8,
+                "id_estudiante": 60,
+                "id_profesor": 11,
+                "id_curso": 3,
+                "calificacion": 1.5,
+                "fecha": "2023-04-26"
+            },
+            {
+                "id_calificacion": 9,
+                "id_estudiante": 36,
+                "id_profesor": 20,
+                "id_curso": 1,
+                "calificacion": 0.03,
+                "fecha": "2023-05-06"
+            },
+            {
+                "id_calificacion": 10,
+                "id_estudiante": 8,
+                "id_profesor": 2,
+                "id_curso": 7,
+                "calificacion": 0.3,
+                "fecha": "2022-04-25"
+            },
+            {
+                "id_calificacion": 11,
+                "id_estudiante": 54,
+                "id_profesor": 8,
+                "id_curso": 1,
+                "calificacion": 2.55,
+                "fecha": "2023-02-07"
+            },
+            {
+                "id_calificacion": 12,
+                "id_estudiante": 51,
+                "id_profesor": 9,
+                "id_curso": 9,
+                "calificacion": 5.08,
+                "fecha": "2022-11-10"
+            },
+            {
+                "id_calificacion": 13,
+                "id_estudiante": 42,
+                "id_profesor": 18,
+                "id_curso": 10,
+                "calificacion": 5.98,
+                "fecha": "2022-12-07"
+            },
+            {
+                "id_calificacion": 14,
+                "id_estudiante": 26,
+                "id_profesor": 8,
+                "id_curso": 10,
+                "calificacion": 6.44,
+                "fecha": "2021-11-20"
+            },
+            {
+                "id_calificacion": 15,
+                "id_estudiante": 55,
+                "id_profesor": 18,
+                "id_curso": 6,
+                "calificacion": 9.73,
+                "fecha": "2020-07-10"
+            },
+            {
+                "id_calificacion": 16,
+                "id_estudiante": 5,
+                "id_profesor": 9,
+                "id_curso": 9,
+                "calificacion": 6.27,
+                "fecha": "2022-07-31"
+            },
+            {
+                "id_calificacion": 17,
+                "id_estudiante": 24,
+                "id_profesor": 13,
+                "id_curso": 2,
+                "calificacion": 0.75,
+                "fecha": "2023-12-03"
+            },
+            {
+                "id_calificacion": 18,
+                "id_estudiante": 73,
+                "id_profesor": 12,
+                "id_curso": 5,
+                "calificacion": 7.66,
+                "fecha": "2021-06-18"
+            },
+            {
+                "id_calificacion": 19,
+                "id_estudiante": 82,
+                "id_profesor": 1,
+                "id_curso": 3,
+                "calificacion": 8.74,
+                "fecha": "2023-02-02"
+            },
+            {
+                "id_calificacion": 20,
+                "id_estudiante": 100,
+                "id_profesor": 7,
+                "id_curso": 4,
+                "calificacion": 8.74,
+                "fecha": "2023-12-16"
+            },
+            {
+                "id_calificacion": 21,
+                "id_estudiante": 89,
+                "id_profesor": 5,
+                "id_curso": 9,
+                "calificacion": 4.81,
+                "fecha": "2022-05-01"
+            },
+            {
+                "id_calificacion": 22,
+                "id_estudiante": 7,
+                "id_profesor": 13,
+                "id_curso": 7,
+                "calificacion": 0.75,
+                "fecha": "2020-03-10"
+            },
+            {
+                "id_calificacion": 23,
+                "id_estudiante": 63,
+                "id_profesor": 13,
+                "id_curso": 8,
+                "calificacion": 7.48,
+                "fecha": "2022-07-29"
+            },
+            {
+                "id_calificacion": 24,
+                "id_estudiante": 55,
+                "id_profesor": 8,
+                "id_curso": 1,
+                "calificacion": 8.7,
+                "fecha": "2020-11-16"
+            },
+            {
+                "id_calificacion": 25,
+                "id_estudiante": 56,
+                "id_profesor": 1,
+                "id_curso": 10,
+                "calificacion": 7.59,
+                "fecha": "2021-10-07"
+            },
+            {
+                "id_calificacion": 26,
+                "id_estudiante": 82,
+                "id_profesor": 9,
+                "id_curso": 1,
+                "calificacion": 3.62,
+                "fecha": "2021-03-08"
+            },
+            {
+                "id_calificacion": 27,
+                "id_estudiante": 78,
+                "id_profesor": 10,
+                "id_curso": 1,
+                "calificacion": 5.34,
+                "fecha": "2020-03-17"
+            },
+            {
+                "id_calificacion": 28,
+                "id_estudiante": 8,
+                "id_profesor": 16,
+                "id_curso": 3,
+                "calificacion": 5.68,
+                "fecha": "2023-09-16"
+            },
+            {
+                "id_calificacion": 29,
+                "id_estudiante": 34,
+                "id_profesor": 4,
+                "id_curso": 2,
+                "calificacion": 4.71,
+                "fecha": "2020-09-11"
+            },
+            {
+                "id_calificacion": 30,
+                "id_estudiante": 83,
+                "id_profesor": 3,
+                "id_curso": 3,
+                "calificacion": 2.29,
+                "fecha": "2021-07-13"
+            },
+            {
+                "id_calificacion": 31,
+                "id_estudiante": 59,
+                "id_profesor": 1,
+                "id_curso": 1,
+                "calificacion": 3.92,
+                "fecha": "2023-04-04"
+            },
+            {
+                "id_calificacion": 32,
+                "id_estudiante": 30,
+                "id_profesor": 6,
+                "id_curso": 4,
+                "calificacion": 7.92,
+                "fecha": "2020-12-25"
+            },
+            {
+                "id_calificacion": 33,
+                "id_estudiante": 24,
+                "id_profesor": 15,
+                "id_curso": 7,
+                "calificacion": 9.5,
+                "fecha": "2021-12-24"
+            },
+            {
+                "id_calificacion": 34,
+                "id_estudiante": 96,
+                "id_profesor": 7,
+                "id_curso": 8,
+                "calificacion": 3.02,
+                "fecha": "2021-02-06"
+            },
+            {
+                "id_calificacion": 35,
+                "id_estudiante": 39,
+                "id_profesor": 19,
+                "id_curso": 5,
+                "calificacion": 6.83,
+                "fecha": "2020-07-18"
+            },
+            {
+                "id_calificacion": 36,
+                "id_estudiante": 18,
+                "id_profesor": 18,
+                "id_curso": 3,
+                "calificacion": 9.3,
+                "fecha": "2023-06-10"
+            },
+            {
+                "id_calificacion": 37,
+                "id_estudiante": 92,
+                "id_profesor": 12,
+                "id_curso": 2,
+                "calificacion": 9.09,
+                "fecha": "2022-11-09"
+            },
+            {
+                "id_calificacion": 38,
+                "id_estudiante": 89,
+                "id_profesor": 11,
+                "id_curso": 3,
+                "calificacion": 8.82,
+                "fecha": "2020-02-17"
+            },
+            {
+                "id_calificacion": 39,
+                "id_estudiante": 89,
+                "id_profesor": 8,
+                "id_curso": 5,
+                "calificacion": 3.54,
+                "fecha": "2023-05-28"
+            },
+            {
+                "id_calificacion": 40,
+                "id_estudiante": 79,
+                "id_profesor": 8,
+                "id_curso": 2,
+                "calificacion": 1.54,
+                "fecha": "2022-07-17"
+            },
+            {
+                "id_calificacion": 41,
+                "id_estudiante": 53,
+                "id_profesor": 17,
+                "id_curso": 4,
+                "calificacion": 3.87,
+                "fecha": "2021-11-29"
+            },
+            {
+                "id_calificacion": 42,
+                "id_estudiante": 29,
+                "id_profesor": 7,
+                "id_curso": 4,
+                "calificacion": 4.96,
+                "fecha": "2023-02-05"
+            },
+            {
+                "id_calificacion": 43,
+                "id_estudiante": 82,
+                "id_profesor": 16,
+                "id_curso": 7,
+                "calificacion": 3.71,
+                "fecha": "2020-05-26"
+            },
+            {
+                "id_calificacion": 44,
+                "id_estudiante": 40,
+                "id_profesor": 8,
+                "id_curso": 3,
+                "calificacion": 3.93,
+                "fecha": "2022-06-18"
+            },
+            {
+                "id_calificacion": 45,
+                "id_estudiante": 89,
+                "id_profesor": 19,
+                "id_curso": 4,
+                "calificacion": 4.74,
+                "fecha": "2022-09-25"
+            },
+            {
+                "id_calificacion": 46,
+                "id_estudiante": 34,
+                "id_profesor": 6,
+                "id_curso": 3,
+                "calificacion": 6.1,
+                "fecha": "2022-10-23"
+            },
+            {
+                "id_calificacion": 47,
+                "id_estudiante": 76,
+                "id_profesor": 3,
+                "id_curso": 3,
+                "calificacion": 2.95,
+                "fecha": "2021-03-10"
+            },
+            {
+                "id_calificacion": 48,
+                "id_estudiante": 87,
+                "id_profesor": 17,
+                "id_curso": 9,
+                "calificacion": 6.33,
+                "fecha": "2021-03-30"
+            },
+            {
+                "id_calificacion": 49,
+                "id_estudiante": 96,
+                "id_profesor": 5,
+                "id_curso": 8,
+                "calificacion": 0.44,
+                "fecha": "2023-09-06"
+            },
+            {
+                "id_calificacion": 50,
+                "id_estudiante": 71,
+                "id_profesor": 14,
+                "id_curso": 7,
+                "calificacion": 0.54,
+                "fecha": "2023-03-12"
+            },
+            {
+                "id_calificacion": 51,
+                "id_estudiante": 57,
+                "id_profesor": 5,
+                "id_curso": 6,
+                "calificacion": 7.36,
+                "fecha": "2022-01-10"
+            },
+            {
+                "id_calificacion": 52,
+                "id_estudiante": 4,
+                "id_profesor": 7,
+                "id_curso": 6,
+                "calificacion": 5.15,
+                "fecha": "2023-03-15"
+            },
+            {
+                "id_calificacion": 53,
+                "id_estudiante": 30,
+                "id_profesor": 14,
+                "id_curso": 8,
+                "calificacion": 8.72,
+                "fecha": "2020-08-15"
+            },
+            {
+                "id_calificacion": 54,
+                "id_estudiante": 37,
+                "id_profesor": 9,
+                "id_curso": 3,
+                "calificacion": 6.5,
+                "fecha": "2021-11-30"
+            },
+            {
+                "id_calificacion": 55,
+                "id_estudiante": 72,
+                "id_profesor": 16,
+                "id_curso": 7,
+                "calificacion": 3.07,
+                "fecha": "2022-11-19"
+            },
+            {
+                "id_calificacion": 56,
+                "id_estudiante": 59,
+                "id_profesor": 4,
+                "id_curso": 8,
+                "calificacion": 8.08,
+                "fecha": "2020-08-20"
+            },
+            {
+                "id_calificacion": 57,
+                "id_estudiante": 20,
+                "id_profesor": 15,
+                "id_curso": 6,
+                "calificacion": 2.21,
+                "fecha": "2020-06-30"
+            },
+            {
+                "id_calificacion": 58,
+                "id_estudiante": 33,
+                "id_profesor": 11,
+                "id_curso": 6,
+                "calificacion": 2.17,
+                "fecha": "2023-11-02"
+            },
+            {
+                "id_calificacion": 59,
+                "id_estudiante": 58,
+                "id_profesor": 17,
+                "id_curso": 7,
+                "calificacion": 9.56,
+                "fecha": "2023-09-20"
+            },
+            {
+                "id_calificacion": 60,
+                "id_estudiante": 1,
+                "id_profesor": 6,
+                "id_curso": 3,
+                "calificacion": 1.49,
+                "fecha": "2022-06-16"
+            },
+            {
+                "id_calificacion": 61,
+                "id_estudiante": 43,
+                "id_profesor": 15,
+                "id_curso": 10,
+                "calificacion": 1.98,
+                "fecha": "2023-03-27"
+            },
+            {
+                "id_calificacion": 62,
+                "id_estudiante": 65,
+                "id_profesor": 11,
+                "id_curso": 3,
+                "calificacion": 3.41,
+                "fecha": "2020-01-20"
+            },
+            {
+                "id_calificacion": 63,
+                "id_estudiante": 17,
+                "id_profesor": 16,
+                "id_curso": 2,
+                "calificacion": 6.48,
+                "fecha": "2021-01-24"
+            },
+            {
+                "id_calificacion": 64,
+                "id_estudiante": 54,
+                "id_profesor": 10,
+                "id_curso": 7,
+                "calificacion": 8.31,
+                "fecha": "2023-06-21"
+            },
+            {
+                "id_calificacion": 65,
+                "id_estudiante": 16,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 7.47,
+                "fecha": "2023-02-26"
+            },
+            {
+                "id_calificacion": 66,
+                "id_estudiante": 30,
+                "id_profesor": 18,
+                "id_curso": 1,
+                "calificacion": 3.39,
+                "fecha": "2021-11-24"
+            },
+            {
+                "id_calificacion": 67,
+                "id_estudiante": 7,
+                "id_profesor": 20,
+                "id_curso": 9,
+                "calificacion": 2.04,
+                "fecha": "2020-02-26"
+            },
+            {
+                "id_calificacion": 68,
+                "id_estudiante": 80,
+                "id_profesor": 5,
+                "id_curso": 9,
+                "calificacion": 9.64,
+                "fecha": "2022-03-29"
+            },
+            {
+                "id_calificacion": 69,
+                "id_estudiante": 71,
+                "id_profesor": 7,
+                "id_curso": 9,
+                "calificacion": 2.8,
+                "fecha": "2020-04-13"
+            },
+            {
+                "id_calificacion": 70,
+                "id_estudiante": 34,
+                "id_profesor": 10,
+                "id_curso": 2,
+                "calificacion": 0.2,
+                "fecha": "2022-01-27"
+            },
+            {
+                "id_calificacion": 71,
+                "id_estudiante": 95,
+                "id_profesor": 11,
+                "id_curso": 7,
+                "calificacion": 7.14,
+                "fecha": "2020-04-01"
+            },
+            {
+                "id_calificacion": 72,
+                "id_estudiante": 31,
+                "id_profesor": 7,
+                "id_curso": 6,
+                "calificacion": 5.5,
+                "fecha": "2020-07-08"
+            },
+            {
+                "id_calificacion": 73,
+                "id_estudiante": 54,
+                "id_profesor": 15,
+                "id_curso": 10,
+                "calificacion": 8.73,
+                "fecha": "2023-11-14"
+            },
+            {
+                "id_calificacion": 74,
+                "id_estudiante": 90,
+                "id_profesor": 9,
+                "id_curso": 5,
+                "calificacion": 7.24,
+                "fecha": "2020-12-09"
+            },
+            {
+                "id_calificacion": 75,
+                "id_estudiante": 46,
+                "id_profesor": 9,
+                "id_curso": 9,
+                "calificacion": 2.27,
+                "fecha": "2020-01-17"
+            },
+            {
+                "id_calificacion": 76,
+                "id_estudiante": 40,
+                "id_profesor": 13,
+                "id_curso": 3,
+                "calificacion": 5.48,
+                "fecha": "2022-05-29"
+            },
+            {
+                "id_calificacion": 77,
+                "id_estudiante": 83,
+                "id_profesor": 19,
+                "id_curso": 8,
+                "calificacion": 8.39,
+                "fecha": "2020-12-06"
+            },
+            {
+                "id_calificacion": 78,
+                "id_estudiante": 44,
+                "id_profesor": 6,
+                "id_curso": 8,
+                "calificacion": 3.1,
+                "fecha": "2023-02-18"
+            },
+            {
+                "id_calificacion": 79,
+                "id_estudiante": 29,
+                "id_profesor": 18,
+                "id_curso": 6,
+                "calificacion": 3.48,
+                "fecha": "2020-01-29"
+            },
+            {
+                "id_calificacion": 80,
+                "id_estudiante": 28,
+                "id_profesor": 18,
+                "id_curso": 8,
+                "calificacion": 9.21,
+                "fecha": "2022-05-16"
+            },
+            {
+                "id_calificacion": 81,
+                "id_estudiante": 35,
+                "id_profesor": 19,
+                "id_curso": 5,
+                "calificacion": 4.46,
+                "fecha": "2022-06-03"
+            },
+            {
+                "id_calificacion": 82,
+                "id_estudiante": 56,
+                "id_profesor": 8,
+                "id_curso": 3,
+                "calificacion": 1.41,
+                "fecha": "2022-11-12"
+            },
+            {
+                "id_calificacion": 83,
+                "id_estudiante": 3,
+                "id_profesor": 14,
+                "id_curso": 5,
+                "calificacion": 4.2,
+                "fecha": "2022-11-11"
+            },
+            {
+                "id_calificacion": 84,
+                "id_estudiante": 95,
+                "id_profesor": 19,
+                "id_curso": 6,
+                "calificacion": 8.7,
+                "fecha": "2023-05-07"
+            },
+            {
+                "id_calificacion": 85,
+                "id_estudiante": 87,
+                "id_profesor": 2,
+                "id_curso": 10,
+                "calificacion": 9.85,
+                "fecha": "2021-07-14"
+            },
+            {
+                "id_calificacion": 86,
+                "id_estudiante": 11,
+                "id_profesor": 14,
+                "id_curso": 5,
+                "calificacion": 9.36,
+                "fecha": "2021-03-08"
+            },
+            {
+                "id_calificacion": 87,
+                "id_estudiante": 65,
+                "id_profesor": 10,
+                "id_curso": 4,
+                "calificacion": 1.26,
+                "fecha": "2020-11-10"
+            },
+            {
+                "id_calificacion": 88,
+                "id_estudiante": 85,
+                "id_profesor": 2,
+                "id_curso": 5,
+                "calificacion": 3.74,
+                "fecha": "2021-02-17"
+            },
+            {
+                "id_calificacion": 89,
+                "id_estudiante": 8,
+                "id_profesor": 6,
+                "id_curso": 1,
+                "calificacion": 1.07,
+                "fecha": "2021-11-22"
+            },
+            {
+                "id_calificacion": 90,
+                "id_estudiante": 43,
+                "id_profesor": 10,
+                "id_curso": 7,
+                "calificacion": 2.28,
+                "fecha": "2023-11-24"
+            },
+            {
+                "id_calificacion": 91,
+                "id_estudiante": 20,
+                "id_profesor": 5,
+                "id_curso": 9,
+                "calificacion": 9.73,
+                "fecha": "2022-03-20"
+            },
+            {
+                "id_calificacion": 92,
+                "id_estudiante": 18,
+                "id_profesor": 16,
+                "id_curso": 1,
+                "calificacion": 2.82,
+                "fecha": "2022-08-02"
+            },
+            {
+                "id_calificacion": 93,
+                "id_estudiante": 90,
+                "id_profesor": 12,
+                "id_curso": 7,
+                "calificacion": 4.26,
+                "fecha": "2022-04-01"
+            },
+            {
+                "id_calificacion": 94,
+                "id_estudiante": 32,
+                "id_profesor": 16,
+                "id_curso": 9,
+                "calificacion": 0.17,
+                "fecha": "2022-11-22"
+            },
+            {
+                "id_calificacion": 95,
+                "id_estudiante": 62,
+                "id_profesor": 5,
+                "id_curso": 2,
+                "calificacion": 4.32,
+                "fecha": "2023-12-07"
+            },
+            {
+                "id_calificacion": 96,
+                "id_estudiante": 92,
+                "id_profesor": 15,
+                "id_curso": 4,
+                "calificacion": 3.18,
+                "fecha": "2022-03-18"
+            },
+            {
+                "id_calificacion": 97,
+                "id_estudiante": 84,
+                "id_profesor": 5,
+                "id_curso": 1,
+                "calificacion": 1.66,
+                "fecha": "2020-08-17"
+            },
+            {
+                "id_calificacion": 98,
+                "id_estudiante": 19,
+                "id_profesor": 19,
+                "id_curso": 1,
+                "calificacion": 7.92,
+                "fecha": "2022-05-03"
+            },
+            {
+                "id_calificacion": 99,
+                "id_estudiante": 71,
+                "id_profesor": 11,
+                "id_curso": 2,
+                "calificacion": 6.48,
+                "fecha": "2023-11-03"
+            },
+            {
+                "id_calificacion": 100,
+                "id_estudiante": 98,
+                "id_profesor": 2,
+                "id_curso": 10,
+                "calificacion": 5.84,
+                "fecha": "2023-06-14"
+            },
+            {
+                "id_calificacion": 101,
+                "id_estudiante": 93,
+                "id_profesor": 4,
+                "id_curso": 10,
+                "calificacion": 7.9,
+                "fecha": "2021-02-16"
+            },
+            {
+                "id_calificacion": 102,
+                "id_estudiante": 71,
+                "id_profesor": 13,
+                "id_curso": 8,
+                "calificacion": 2.56,
+                "fecha": "2021-02-20"
+            },
+            {
+                "id_calificacion": 103,
+                "id_estudiante": 30,
+                "id_profesor": 2,
+                "id_curso": 9,
+                "calificacion": 9.04,
+                "fecha": "2021-01-08"
+            },
+            {
+                "id_calificacion": 104,
+                "id_estudiante": 13,
+                "id_profesor": 9,
+                "id_curso": 7,
+                "calificacion": 2.49,
+                "fecha": "2020-06-27"
+            },
+            {
+                "id_calificacion": 105,
+                "id_estudiante": 50,
+                "id_profesor": 17,
+                "id_curso": 3,
+                "calificacion": 4.02,
+                "fecha": "2020-08-28"
+            },
+            {
+                "id_calificacion": 106,
+                "id_estudiante": 92,
+                "id_profesor": 4,
+                "id_curso": 3,
+                "calificacion": 1.2,
+                "fecha": "2022-01-28"
+            },
+            {
+                "id_calificacion": 107,
+                "id_estudiante": 90,
+                "id_profesor": 5,
+                "id_curso": 7,
+                "calificacion": 0.72,
+                "fecha": "2022-01-15"
+            },
+            {
+                "id_calificacion": 108,
+                "id_estudiante": 3,
+                "id_profesor": 7,
+                "id_curso": 4,
+                "calificacion": 9.55,
+                "fecha": "2023-02-20"
+            },
+            {
+                "id_calificacion": 109,
+                "id_estudiante": 39,
+                "id_profesor": 13,
+                "id_curso": 5,
+                "calificacion": 6.54,
+                "fecha": "2023-06-07"
+            },
+            {
+                "id_calificacion": 110,
+                "id_estudiante": 69,
+                "id_profesor": 11,
+                "id_curso": 1,
+                "calificacion": 6.63,
+                "fecha": "2022-12-30"
+            },
+            {
+                "id_calificacion": 111,
+                "id_estudiante": 33,
+                "id_profesor": 20,
+                "id_curso": 2,
+                "calificacion": 5.91,
+                "fecha": "2020-06-24"
+            },
+            {
+                "id_calificacion": 112,
+                "id_estudiante": 87,
+                "id_profesor": 2,
+                "id_curso": 6,
+                "calificacion": 8.44,
+                "fecha": "2022-10-06"
+            },
+            {
+                "id_calificacion": 113,
+                "id_estudiante": 69,
+                "id_profesor": 6,
+                "id_curso": 7,
+                "calificacion": 3.16,
+                "fecha": "2020-09-19"
+            },
+            {
+                "id_calificacion": 114,
+                "id_estudiante": 48,
+                "id_profesor": 3,
+                "id_curso": 10,
+                "calificacion": 1.13,
+                "fecha": "2021-10-07"
+            },
+            {
+                "id_calificacion": 115,
+                "id_estudiante": 8,
+                "id_profesor": 14,
+                "id_curso": 3,
+                "calificacion": 7.19,
+                "fecha": "2023-10-16"
+            },
+            {
+                "id_calificacion": 116,
+                "id_estudiante": 62,
+                "id_profesor": 8,
+                "id_curso": 9,
+                "calificacion": 6.87,
+                "fecha": "2020-12-08"
+            },
+            {
+                "id_calificacion": 117,
+                "id_estudiante": 78,
+                "id_profesor": 17,
+                "id_curso": 6,
+                "calificacion": 1.23,
+                "fecha": "2023-03-23"
+            },
+            {
+                "id_calificacion": 118,
+                "id_estudiante": 81,
+                "id_profesor": 8,
+                "id_curso": 5,
+                "calificacion": 6.03,
+                "fecha": "2020-12-14"
+            },
+            {
+                "id_calificacion": 119,
+                "id_estudiante": 83,
+                "id_profesor": 19,
+                "id_curso": 10,
+                "calificacion": 1.43,
+                "fecha": "2022-04-05"
+            },
+            {
+                "id_calificacion": 120,
+                "id_estudiante": 99,
+                "id_profesor": 15,
+                "id_curso": 4,
+                "calificacion": 9.0,
+                "fecha": "2021-07-16"
+            },
+            {
+                "id_calificacion": 121,
+                "id_estudiante": 70,
+                "id_profesor": 14,
+                "id_curso": 9,
+                "calificacion": 0.3,
+                "fecha": "2022-06-24"
+            },
+            {
+                "id_calificacion": 122,
+                "id_estudiante": 8,
+                "id_profesor": 18,
+                "id_curso": 6,
+                "calificacion": 9.53,
+                "fecha": "2022-08-12"
+            },
+            {
+                "id_calificacion": 123,
+                "id_estudiante": 13,
+                "id_profesor": 20,
+                "id_curso": 7,
+                "calificacion": 9.44,
+                "fecha": "2023-10-02"
+            },
+            {
+                "id_calificacion": 124,
+                "id_estudiante": 74,
+                "id_profesor": 17,
+                "id_curso": 8,
+                "calificacion": 2.95,
+                "fecha": "2021-07-29"
+            },
+            {
+                "id_calificacion": 125,
+                "id_estudiante": 65,
+                "id_profesor": 18,
+                "id_curso": 4,
+                "calificacion": 1.87,
+                "fecha": "2023-04-07"
+            },
+            {
+                "id_calificacion": 126,
+                "id_estudiante": 18,
+                "id_profesor": 1,
+                "id_curso": 6,
+                "calificacion": 9.39,
+                "fecha": "2020-07-14"
+            },
+            {
+                "id_calificacion": 127,
+                "id_estudiante": 21,
+                "id_profesor": 14,
+                "id_curso": 5,
+                "calificacion": 4.52,
+                "fecha": "2021-04-23"
+            },
+            {
+                "id_calificacion": 128,
+                "id_estudiante": 30,
+                "id_profesor": 12,
+                "id_curso": 10,
+                "calificacion": 6.02,
+                "fecha": "2021-01-14"
+            },
+            {
+                "id_calificacion": 129,
+                "id_estudiante": 6,
+                "id_profesor": 8,
+                "id_curso": 8,
+                "calificacion": 1.77,
+                "fecha": "2023-07-03"
+            },
+            {
+                "id_calificacion": 130,
+                "id_estudiante": 13,
+                "id_profesor": 2,
+                "id_curso": 10,
+                "calificacion": 4.14,
+                "fecha": "2022-06-04"
+            },
+            {
+                "id_calificacion": 131,
+                "id_estudiante": 87,
+                "id_profesor": 6,
+                "id_curso": 1,
+                "calificacion": 1.29,
+                "fecha": "2021-01-08"
+            },
+            {
+                "id_calificacion": 132,
+                "id_estudiante": 28,
+                "id_profesor": 17,
+                "id_curso": 7,
+                "calificacion": 1.42,
+                "fecha": "2022-04-09"
+            },
+            {
+                "id_calificacion": 133,
+                "id_estudiante": 22,
+                "id_profesor": 14,
+                "id_curso": 2,
+                "calificacion": 2.66,
+                "fecha": "2023-10-16"
+            },
+            {
+                "id_calificacion": 134,
+                "id_estudiante": 83,
+                "id_profesor": 1,
+                "id_curso": 3,
+                "calificacion": 6.27,
+                "fecha": "2020-05-13"
+            },
+            {
+                "id_calificacion": 135,
+                "id_estudiante": 60,
+                "id_profesor": 20,
+                "id_curso": 8,
+                "calificacion": 5.51,
+                "fecha": "2021-11-07"
+            },
+            {
+                "id_calificacion": 136,
+                "id_estudiante": 48,
+                "id_profesor": 7,
+                "id_curso": 7,
+                "calificacion": 2.58,
+                "fecha": "2022-08-19"
+            },
+            {
+                "id_calificacion": 137,
+                "id_estudiante": 31,
+                "id_profesor": 18,
+                "id_curso": 6,
+                "calificacion": 1.18,
+                "fecha": "2020-06-15"
+            },
+            {
+                "id_calificacion": 138,
+                "id_estudiante": 36,
+                "id_profesor": 16,
+                "id_curso": 6,
+                "calificacion": 8.23,
+                "fecha": "2020-10-08"
+            },
+            {
+                "id_calificacion": 139,
+                "id_estudiante": 95,
+                "id_profesor": 20,
+                "id_curso": 8,
+                "calificacion": 9.3,
+                "fecha": "2021-12-23"
+            },
+            {
+                "id_calificacion": 140,
+                "id_estudiante": 87,
+                "id_profesor": 16,
+                "id_curso": 7,
+                "calificacion": 9.41,
+                "fecha": "2021-10-22"
+            },
+            {
+                "id_calificacion": 141,
+                "id_estudiante": 75,
+                "id_profesor": 14,
+                "id_curso": 4,
+                "calificacion": 3.69,
+                "fecha": "2020-10-07"
+            },
+            {
+                "id_calificacion": 142,
+                "id_estudiante": 14,
+                "id_profesor": 8,
+                "id_curso": 1,
+                "calificacion": 2.48,
+                "fecha": "2022-08-17"
+            },
+            {
+                "id_calificacion": 143,
+                "id_estudiante": 74,
+                "id_profesor": 16,
+                "id_curso": 3,
+                "calificacion": 2.77,
+                "fecha": "2021-08-06"
+            },
+            {
+                "id_calificacion": 144,
+                "id_estudiante": 3,
+                "id_profesor": 14,
+                "id_curso": 4,
+                "calificacion": 0.71,
+                "fecha": "2020-08-28"
+            },
+            {
+                "id_calificacion": 145,
+                "id_estudiante": 7,
+                "id_profesor": 17,
+                "id_curso": 5,
+                "calificacion": 5.03,
+                "fecha": "2021-05-04"
+            },
+            {
+                "id_calificacion": 146,
+                "id_estudiante": 16,
+                "id_profesor": 8,
+                "id_curso": 8,
+                "calificacion": 0.25,
+                "fecha": "2023-10-18"
+            },
+            {
+                "id_calificacion": 147,
+                "id_estudiante": 96,
+                "id_profesor": 4,
+                "id_curso": 10,
+                "calificacion": 1.34,
+                "fecha": "2023-11-29"
+            },
+            {
+                "id_calificacion": 148,
+                "id_estudiante": 77,
+                "id_profesor": 19,
+                "id_curso": 2,
+                "calificacion": 9.15,
+                "fecha": "2022-09-28"
+            },
+            {
+                "id_calificacion": 149,
+                "id_estudiante": 14,
+                "id_profesor": 4,
+                "id_curso": 2,
+                "calificacion": 1.71,
+                "fecha": "2021-07-15"
+            },
+            {
+                "id_calificacion": 150,
+                "id_estudiante": 6,
+                "id_profesor": 2,
+                "id_curso": 7,
+                "calificacion": 3.4,
+                "fecha": "2021-01-27"
+            },
+            {
+                "id_calificacion": 151,
+                "id_estudiante": 78,
+                "id_profesor": 11,
+                "id_curso": 7,
+                "calificacion": 9.56,
+                "fecha": "2020-01-31"
+            },
+            {
+                "id_calificacion": 152,
+                "id_estudiante": 62,
+                "id_profesor": 9,
+                "id_curso": 1,
+                "calificacion": 9.6,
+                "fecha": "2022-12-29"
+            },
+            {
+                "id_calificacion": 153,
+                "id_estudiante": 44,
+                "id_profesor": 18,
+                "id_curso": 2,
+                "calificacion": 8.81,
+                "fecha": "2021-09-03"
+            },
+            {
+                "id_calificacion": 154,
+                "id_estudiante": 6,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 1.41,
+                "fecha": "2021-09-08"
+            },
+            {
+                "id_calificacion": 155,
+                "id_estudiante": 70,
+                "id_profesor": 17,
+                "id_curso": 9,
+                "calificacion": 3.5,
+                "fecha": "2023-10-19"
+            },
+            {
+                "id_calificacion": 156,
+                "id_estudiante": 89,
+                "id_profesor": 17,
+                "id_curso": 10,
+                "calificacion": 2.93,
+                "fecha": "2023-06-23"
+            },
+            {
+                "id_calificacion": 157,
+                "id_estudiante": 18,
+                "id_profesor": 13,
+                "id_curso": 2,
+                "calificacion": 5.93,
+                "fecha": "2023-10-12"
+            },
+            {
+                "id_calificacion": 158,
+                "id_estudiante": 26,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 2.23,
+                "fecha": "2021-11-26"
+            },
+            {
+                "id_calificacion": 159,
+                "id_estudiante": 88,
+                "id_profesor": 20,
+                "id_curso": 2,
+                "calificacion": 7.41,
+                "fecha": "2020-02-11"
+            },
+            {
+                "id_calificacion": 160,
+                "id_estudiante": 7,
+                "id_profesor": 18,
+                "id_curso": 3,
+                "calificacion": 6.53,
+                "fecha": "2020-09-21"
+            },
+            {
+                "id_calificacion": 161,
+                "id_estudiante": 37,
+                "id_profesor": 15,
+                "id_curso": 1,
+                "calificacion": 9.68,
+                "fecha": "2023-05-25"
+            },
+            {
+                "id_calificacion": 162,
+                "id_estudiante": 17,
+                "id_profesor": 15,
+                "id_curso": 5,
+                "calificacion": 1.94,
+                "fecha": "2023-01-05"
+            },
+            {
+                "id_calificacion": 163,
+                "id_estudiante": 2,
+                "id_profesor": 20,
+                "id_curso": 8,
+                "calificacion": 8.38,
+                "fecha": "2021-07-01"
+            },
+            {
+                "id_calificacion": 164,
+                "id_estudiante": 54,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 5.6,
+                "fecha": "2022-07-15"
+            },
+            {
+                "id_calificacion": 165,
+                "id_estudiante": 32,
+                "id_profesor": 10,
+                "id_curso": 10,
+                "calificacion": 4.07,
+                "fecha": "2020-02-06"
+            },
+            {
+                "id_calificacion": 166,
+                "id_estudiante": 37,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 1.51,
+                "fecha": "2021-06-13"
+            },
+            {
+                "id_calificacion": 167,
+                "id_estudiante": 24,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 0.44,
+                "fecha": "2020-04-22"
+            },
+            {
+                "id_calificacion": 168,
+                "id_estudiante": 49,
+                "id_profesor": 9,
+                "id_curso": 8,
+                "calificacion": 6.47,
+                "fecha": "2020-01-06"
+            },
+            {
+                "id_calificacion": 169,
+                "id_estudiante": 77,
+                "id_profesor": 11,
+                "id_curso": 10,
+                "calificacion": 5.48,
+                "fecha": "2021-07-09"
+            },
+            {
+                "id_calificacion": 170,
+                "id_estudiante": 23,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 3.59,
+                "fecha": "2020-07-08"
+            },
+            {
+                "id_calificacion": 171,
+                "id_estudiante": 9,
+                "id_profesor": 7,
+                "id_curso": 1,
+                "calificacion": 1.45,
+                "fecha": "2022-04-25"
+            },
+            {
+                "id_calificacion": 172,
+                "id_estudiante": 86,
+                "id_profesor": 9,
+                "id_curso": 5,
+                "calificacion": 7.06,
+                "fecha": "2021-09-16"
+            },
+            {
+                "id_calificacion": 173,
+                "id_estudiante": 44,
+                "id_profesor": 20,
+                "id_curso": 5,
+                "calificacion": 1.45,
+                "fecha": "2022-04-30"
+            },
+            {
+                "id_calificacion": 174,
+                "id_estudiante": 14,
+                "id_profesor": 1,
+                "id_curso": 7,
+                "calificacion": 1.9,
+                "fecha": "2021-05-22"
+            },
+            {
+                "id_calificacion": 175,
+                "id_estudiante": 61,
+                "id_profesor": 15,
+                "id_curso": 10,
+                "calificacion": 8.98,
+                "fecha": "2021-11-17"
+            },
+            {
+                "id_calificacion": 176,
+                "id_estudiante": 15,
+                "id_profesor": 4,
+                "id_curso": 10,
+                "calificacion": 5.67,
+                "fecha": "2023-07-01"
+            },
+            {
+                "id_calificacion": 177,
+                "id_estudiante": 95,
+                "id_profesor": 13,
+                "id_curso": 8,
+                "calificacion": 0.68,
+                "fecha": "2021-05-02"
+            },
+            {
+                "id_calificacion": 178,
+                "id_estudiante": 83,
+                "id_profesor": 20,
+                "id_curso": 8,
+                "calificacion": 2.69,
+                "fecha": "2022-07-30"
+            },
+            {
+                "id_calificacion": 179,
+                "id_estudiante": 20,
+                "id_profesor": 19,
+                "id_curso": 5,
+                "calificacion": 9.37,
+                "fecha": "2021-04-10"
+            },
+            {
+                "id_calificacion": 180,
+                "id_estudiante": 75,
+                "id_profesor": 19,
+                "id_curso": 6,
+                "calificacion": 5.02,
+                "fecha": "2021-05-06"
+            },
+            {
+                "id_calificacion": 181,
+                "id_estudiante": 61,
+                "id_profesor": 16,
+                "id_curso": 10,
+                "calificacion": 8.04,
+                "fecha": "2023-01-07"
+            },
+            {
+                "id_calificacion": 182,
+                "id_estudiante": 91,
+                "id_profesor": 19,
+                "id_curso": 8,
+                "calificacion": 7.17,
+                "fecha": "2023-06-22"
+            },
+            {
+                "id_calificacion": 183,
+                "id_estudiante": 64,
+                "id_profesor": 1,
+                "id_curso": 10,
+                "calificacion": 6.33,
+                "fecha": "2022-04-26"
+            },
+            {
+                "id_calificacion": 184,
+                "id_estudiante": 17,
+                "id_profesor": 19,
+                "id_curso": 6,
+                "calificacion": 4.05,
+                "fecha": "2023-05-10"
+            },
+            {
+                "id_calificacion": 185,
+                "id_estudiante": 31,
+                "id_profesor": 16,
+                "id_curso": 1,
+                "calificacion": 1.6,
+                "fecha": "2020-01-25"
+            },
+            {
+                "id_calificacion": 186,
+                "id_estudiante": 30,
+                "id_profesor": 6,
+                "id_curso": 7,
+                "calificacion": 3.59,
+                "fecha": "2022-02-20"
+            },
+            {
+                "id_calificacion": 187,
+                "id_estudiante": 4,
+                "id_profesor": 16,
+                "id_curso": 3,
+                "calificacion": 0.31,
+                "fecha": "2022-11-15"
+            },
+            {
+                "id_calificacion": 188,
+                "id_estudiante": 81,
+                "id_profesor": 17,
+                "id_curso": 7,
+                "calificacion": 2.15,
+                "fecha": "2023-08-06"
+            },
+            {
+                "id_calificacion": 189,
+                "id_estudiante": 85,
+                "id_profesor": 16,
+                "id_curso": 5,
+                "calificacion": 1.13,
+                "fecha": "2022-09-26"
+            },
+            {
+                "id_calificacion": 190,
+                "id_estudiante": 20,
+                "id_profesor": 18,
+                "id_curso": 10,
+                "calificacion": 5.43,
+                "fecha": "2023-04-05"
+            },
+            {
+                "id_calificacion": 191,
+                "id_estudiante": 80,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 6.32,
+                "fecha": "2022-05-28"
+            },
+            {
+                "id_calificacion": 192,
+                "id_estudiante": 71,
+                "id_profesor": 1,
+                "id_curso": 6,
+                "calificacion": 9.49,
+                "fecha": "2022-01-07"
+            },
+            {
+                "id_calificacion": 193,
+                "id_estudiante": 31,
+                "id_profesor": 12,
+                "id_curso": 2,
+                "calificacion": 0.78,
+                "fecha": "2023-05-18"
+            },
+            {
+                "id_calificacion": 194,
+                "id_estudiante": 86,
+                "id_profesor": 18,
+                "id_curso": 1,
+                "calificacion": 2.81,
+                "fecha": "2020-03-14"
+            },
+            {
+                "id_calificacion": 195,
+                "id_estudiante": 42,
+                "id_profesor": 4,
+                "id_curso": 6,
+                "calificacion": 6.39,
+                "fecha": "2023-12-14"
+            },
+            {
+                "id_calificacion": 196,
+                "id_estudiante": 89,
+                "id_profesor": 18,
+                "id_curso": 3,
+                "calificacion": 2.8,
+                "fecha": "2022-02-08"
+            },
+            {
+                "id_calificacion": 197,
+                "id_estudiante": 78,
+                "id_profesor": 4,
+                "id_curso": 9,
+                "calificacion": 2.29,
+                "fecha": "2020-04-28"
+            },
+            {
+                "id_calificacion": 198,
+                "id_estudiante": 63,
+                "id_profesor": 11,
+                "id_curso": 1,
+                "calificacion": 3.28,
+                "fecha": "2021-04-24"
+            },
+            {
+                "id_calificacion": 199,
+                "id_estudiante": 97,
+                "id_profesor": 6,
+                "id_curso": 6,
+                "calificacion": 5.52,
+                "fecha": "2020-04-29"
+            },
+            {
+                "id_calificacion": 200,
+                "id_estudiante": 17,
+                "id_profesor": 17,
+                "id_curso": 2,
+                "calificacion": 3.8,
+                "fecha": "2021-09-21"
+            },
+            {
+                "id_calificacion": 201,
+                "id_estudiante": 21,
+                "id_profesor": 20,
+                "id_curso": 1,
+                "calificacion": 8.4,
+                "fecha": "2022-06-30"
+            },
+            {
+                "id_calificacion": 202,
+                "id_estudiante": 61,
+                "id_profesor": 14,
+                "id_curso": 8,
+                "calificacion": 9.25,
+                "fecha": "2020-05-23"
+            },
+            {
+                "id_calificacion": 203,
+                "id_estudiante": 45,
+                "id_profesor": 11,
+                "id_curso": 6,
+                "calificacion": 2.63,
+                "fecha": "2023-04-27"
+            },
+            {
+                "id_calificacion": 204,
+                "id_estudiante": 91,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 2.71,
+                "fecha": "2023-10-06"
+            },
+            {
+                "id_calificacion": 205,
+                "id_estudiante": 57,
+                "id_profesor": 1,
+                "id_curso": 2,
+                "calificacion": 9.3,
+                "fecha": "2020-10-04"
+            },
+            {
+                "id_calificacion": 206,
+                "id_estudiante": 81,
+                "id_profesor": 11,
+                "id_curso": 6,
+                "calificacion": 5.54,
+                "fecha": "2022-10-30"
+            },
+            {
+                "id_calificacion": 207,
+                "id_estudiante": 13,
+                "id_profesor": 20,
+                "id_curso": 8,
+                "calificacion": 2.93,
+                "fecha": "2021-03-30"
+            },
+            {
+                "id_calificacion": 208,
+                "id_estudiante": 52,
+                "id_profesor": 10,
+                "id_curso": 7,
+                "calificacion": 1.11,
+                "fecha": "2021-11-16"
+            },
+            {
+                "id_calificacion": 209,
+                "id_estudiante": 20,
+                "id_profesor": 8,
+                "id_curso": 8,
+                "calificacion": 5.07,
+                "fecha": "2022-10-16"
+            },
+            {
+                "id_calificacion": 210,
+                "id_estudiante": 46,
+                "id_profesor": 6,
+                "id_curso": 4,
+                "calificacion": 6.55,
+                "fecha": "2023-01-08"
+            },
+            {
+                "id_calificacion": 211,
+                "id_estudiante": 30,
+                "id_profesor": 6,
+                "id_curso": 8,
+                "calificacion": 9.76,
+                "fecha": "2022-09-18"
+            },
+            {
+                "id_calificacion": 212,
+                "id_estudiante": 38,
+                "id_profesor": 5,
+                "id_curso": 3,
+                "calificacion": 9.58,
+                "fecha": "2023-01-24"
+            },
+            {
+                "id_calificacion": 213,
+                "id_estudiante": 84,
+                "id_profesor": 13,
+                "id_curso": 10,
+                "calificacion": 6.18,
+                "fecha": "2023-10-24"
+            },
+            {
+                "id_calificacion": 214,
+                "id_estudiante": 68,
+                "id_profesor": 12,
+                "id_curso": 3,
+                "calificacion": 3.33,
+                "fecha": "2023-06-11"
+            },
+            {
+                "id_calificacion": 215,
+                "id_estudiante": 4,
+                "id_profesor": 3,
+                "id_curso": 10,
+                "calificacion": 0.74,
+                "fecha": "2021-11-26"
+            },
+            {
+                "id_calificacion": 216,
+                "id_estudiante": 82,
+                "id_profesor": 20,
+                "id_curso": 5,
+                "calificacion": 0.53,
+                "fecha": "2021-08-05"
+            },
+            {
+                "id_calificacion": 217,
+                "id_estudiante": 29,
+                "id_profesor": 4,
+                "id_curso": 1,
+                "calificacion": 3.3,
+                "fecha": "2022-09-28"
+            },
+            {
+                "id_calificacion": 218,
+                "id_estudiante": 36,
+                "id_profesor": 12,
+                "id_curso": 9,
+                "calificacion": 5.56,
+                "fecha": "2022-02-04"
+            },
+            {
+                "id_calificacion": 219,
+                "id_estudiante": 69,
+                "id_profesor": 8,
+                "id_curso": 8,
+                "calificacion": 5.03,
+                "fecha": "2022-10-06"
+            },
+            {
+                "id_calificacion": 220,
+                "id_estudiante": 78,
+                "id_profesor": 5,
+                "id_curso": 8,
+                "calificacion": 6.32,
+                "fecha": "2021-03-22"
+            },
+            {
+                "id_calificacion": 221,
+                "id_estudiante": 80,
+                "id_profesor": 18,
+                "id_curso": 8,
+                "calificacion": 1.45,
+                "fecha": "2021-12-30"
+            },
+            {
+                "id_calificacion": 222,
+                "id_estudiante": 18,
+                "id_profesor": 10,
+                "id_curso": 8,
+                "calificacion": 1.15,
+                "fecha": "2023-01-22"
+            },
+            {
+                "id_calificacion": 223,
+                "id_estudiante": 52,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 2.99,
+                "fecha": "2021-07-06"
+            },
+            {
+                "id_calificacion": 224,
+                "id_estudiante": 63,
+                "id_profesor": 6,
+                "id_curso": 8,
+                "calificacion": 6.94,
+                "fecha": "2021-12-08"
+            },
+            {
+                "id_calificacion": 225,
+                "id_estudiante": 29,
+                "id_profesor": 6,
+                "id_curso": 6,
+                "calificacion": 2.66,
+                "fecha": "2021-10-10"
+            },
+            {
+                "id_calificacion": 226,
+                "id_estudiante": 62,
+                "id_profesor": 14,
+                "id_curso": 5,
+                "calificacion": 4.13,
+                "fecha": "2023-07-03"
+            },
+            {
+                "id_calificacion": 227,
+                "id_estudiante": 83,
+                "id_profesor": 9,
+                "id_curso": 4,
+                "calificacion": 4.56,
+                "fecha": "2022-09-04"
+            },
+            {
+                "id_calificacion": 228,
+                "id_estudiante": 82,
+                "id_profesor": 11,
+                "id_curso": 1,
+                "calificacion": 6.26,
+                "fecha": "2021-04-06"
+            },
+            {
+                "id_calificacion": 229,
+                "id_estudiante": 24,
+                "id_profesor": 8,
+                "id_curso": 1,
+                "calificacion": 0.97,
+                "fecha": "2022-10-04"
+            },
+            {
+                "id_calificacion": 230,
+                "id_estudiante": 26,
+                "id_profesor": 15,
+                "id_curso": 3,
+                "calificacion": 5.86,
+                "fecha": "2022-10-29"
+            },
+            {
+                "id_calificacion": 231,
+                "id_estudiante": 72,
+                "id_profesor": 7,
+                "id_curso": 8,
+                "calificacion": 4.34,
+                "fecha": "2021-03-20"
+            },
+            {
+                "id_calificacion": 232,
+                "id_estudiante": 12,
+                "id_profesor": 1,
+                "id_curso": 7,
+                "calificacion": 5.83,
+                "fecha": "2022-05-20"
+            },
+            {
+                "id_calificacion": 233,
+                "id_estudiante": 53,
+                "id_profesor": 16,
+                "id_curso": 1,
+                "calificacion": 8.52,
+                "fecha": "2021-06-11"
+            },
+            {
+                "id_calificacion": 234,
+                "id_estudiante": 35,
+                "id_profesor": 8,
+                "id_curso": 7,
+                "calificacion": 4.06,
+                "fecha": "2023-04-29"
+            },
+            {
+                "id_calificacion": 235,
+                "id_estudiante": 45,
+                "id_profesor": 14,
+                "id_curso": 7,
+                "calificacion": 1.23,
+                "fecha": "2022-10-12"
+            },
+            {
+                "id_calificacion": 236,
+                "id_estudiante": 81,
+                "id_profesor": 7,
+                "id_curso": 1,
+                "calificacion": 5.66,
+                "fecha": "2022-02-20"
+            },
+            {
+                "id_calificacion": 237,
+                "id_estudiante": 27,
+                "id_profesor": 15,
+                "id_curso": 7,
+                "calificacion": 5.59,
+                "fecha": "2020-03-09"
+            },
+            {
+                "id_calificacion": 238,
+                "id_estudiante": 53,
+                "id_profesor": 11,
+                "id_curso": 10,
+                "calificacion": 2.15,
+                "fecha": "2021-12-10"
+            },
+            {
+                "id_calificacion": 239,
+                "id_estudiante": 97,
+                "id_profesor": 15,
+                "id_curso": 2,
+                "calificacion": 1.58,
+                "fecha": "2021-09-16"
+            },
+            {
+                "id_calificacion": 240,
+                "id_estudiante": 44,
+                "id_profesor": 16,
+                "id_curso": 3,
+                "calificacion": 4.16,
+                "fecha": "2022-07-04"
+            },
+            {
+                "id_calificacion": 241,
+                "id_estudiante": 91,
+                "id_profesor": 15,
+                "id_curso": 2,
+                "calificacion": 2.17,
+                "fecha": "2023-11-10"
+            },
+            {
+                "id_calificacion": 242,
+                "id_estudiante": 52,
+                "id_profesor": 3,
+                "id_curso": 8,
+                "calificacion": 9.26,
+                "fecha": "2020-08-31"
+            },
+            {
+                "id_calificacion": 243,
+                "id_estudiante": 96,
+                "id_profesor": 13,
+                "id_curso": 5,
+                "calificacion": 7.47,
+                "fecha": "2020-10-16"
+            },
+            {
+                "id_calificacion": 244,
+                "id_estudiante": 23,
+                "id_profesor": 17,
+                "id_curso": 3,
+                "calificacion": 6.88,
+                "fecha": "2022-04-05"
+            },
+            {
+                "id_calificacion": 245,
+                "id_estudiante": 61,
+                "id_profesor": 5,
+                "id_curso": 9,
+                "calificacion": 4.71,
+                "fecha": "2021-08-06"
+            },
+            {
+                "id_calificacion": 246,
+                "id_estudiante": 69,
+                "id_profesor": 19,
+                "id_curso": 10,
+                "calificacion": 4.1,
+                "fecha": "2021-04-06"
+            },
+            {
+                "id_calificacion": 247,
+                "id_estudiante": 37,
+                "id_profesor": 5,
+                "id_curso": 3,
+                "calificacion": 6.25,
+                "fecha": "2021-01-02"
+            },
+            {
+                "id_calificacion": 248,
+                "id_estudiante": 61,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 8.04,
+                "fecha": "2023-12-14"
+            },
+            {
+                "id_calificacion": 249,
+                "id_estudiante": 88,
+                "id_profesor": 10,
+                "id_curso": 8,
+                "calificacion": 7.14,
+                "fecha": "2020-05-17"
+            },
+            {
+                "id_calificacion": 250,
+                "id_estudiante": 53,
+                "id_profesor": 12,
+                "id_curso": 7,
+                "calificacion": 6.34,
+                "fecha": "2022-09-19"
+            },
+            {
+                "id_calificacion": 251,
+                "id_estudiante": 82,
+                "id_profesor": 12,
+                "id_curso": 9,
+                "calificacion": 5.12,
+                "fecha": "2023-07-27"
+            },
+            {
+                "id_calificacion": 252,
+                "id_estudiante": 17,
+                "id_profesor": 16,
+                "id_curso": 7,
+                "calificacion": 4.87,
+                "fecha": "2020-08-11"
+            },
+            {
+                "id_calificacion": 253,
+                "id_estudiante": 61,
+                "id_profesor": 2,
+                "id_curso": 2,
+                "calificacion": 3.51,
+                "fecha": "2021-09-04"
+            },
+            {
+                "id_calificacion": 254,
+                "id_estudiante": 79,
+                "id_profesor": 4,
+                "id_curso": 3,
+                "calificacion": 3.74,
+                "fecha": "2023-02-09"
+            },
+            {
+                "id_calificacion": 255,
+                "id_estudiante": 6,
+                "id_profesor": 13,
+                "id_curso": 6,
+                "calificacion": 4.09,
+                "fecha": "2023-01-05"
+            },
+            {
+                "id_calificacion": 256,
+                "id_estudiante": 55,
+                "id_profesor": 18,
+                "id_curso": 10,
+                "calificacion": 6.02,
+                "fecha": "2023-01-04"
+            },
+            {
+                "id_calificacion": 257,
+                "id_estudiante": 81,
+                "id_profesor": 7,
+                "id_curso": 2,
+                "calificacion": 4.31,
+                "fecha": "2023-10-16"
+            },
+            {
+                "id_calificacion": 258,
+                "id_estudiante": 24,
+                "id_profesor": 6,
+                "id_curso": 4,
+                "calificacion": 0.78,
+                "fecha": "2021-09-07"
+            },
+            {
+                "id_calificacion": 259,
+                "id_estudiante": 95,
+                "id_profesor": 8,
+                "id_curso": 2,
+                "calificacion": 1.42,
+                "fecha": "2020-10-05"
+            },
+            {
+                "id_calificacion": 260,
+                "id_estudiante": 26,
+                "id_profesor": 20,
+                "id_curso": 6,
+                "calificacion": 6.36,
+                "fecha": "2023-05-27"
+            },
+            {
+                "id_calificacion": 261,
+                "id_estudiante": 20,
+                "id_profesor": 13,
+                "id_curso": 2,
+                "calificacion": 6.36,
+                "fecha": "2021-03-31"
+            },
+            {
+                "id_calificacion": 262,
+                "id_estudiante": 96,
+                "id_profesor": 7,
+                "id_curso": 4,
+                "calificacion": 8.64,
+                "fecha": "2020-05-24"
+            },
+            {
+                "id_calificacion": 263,
+                "id_estudiante": 35,
+                "id_profesor": 11,
+                "id_curso": 4,
+                "calificacion": 2.91,
+                "fecha": "2022-08-26"
+            },
+            {
+                "id_calificacion": 264,
+                "id_estudiante": 78,
+                "id_profesor": 10,
+                "id_curso": 5,
+                "calificacion": 7.33,
+                "fecha": "2023-01-01"
+            },
+            {
+                "id_calificacion": 265,
+                "id_estudiante": 25,
+                "id_profesor": 11,
+                "id_curso": 3,
+                "calificacion": 2.64,
+                "fecha": "2020-07-16"
+            },
+            {
+                "id_calificacion": 266,
+                "id_estudiante": 82,
+                "id_profesor": 8,
+                "id_curso": 3,
+                "calificacion": 9.62,
+                "fecha": "2023-07-08"
+            },
+            {
+                "id_calificacion": 267,
+                "id_estudiante": 45,
+                "id_profesor": 20,
+                "id_curso": 3,
+                "calificacion": 0.12,
+                "fecha": "2020-09-10"
+            },
+            {
+                "id_calificacion": 268,
+                "id_estudiante": 100,
+                "id_profesor": 15,
+                "id_curso": 3,
+                "calificacion": 5.85,
+                "fecha": "2023-08-17"
+            },
+            {
+                "id_calificacion": 269,
+                "id_estudiante": 29,
+                "id_profesor": 16,
+                "id_curso": 1,
+                "calificacion": 0.13,
+                "fecha": "2021-03-06"
+            },
+            {
+                "id_calificacion": 270,
+                "id_estudiante": 57,
+                "id_profesor": 16,
+                "id_curso": 8,
+                "calificacion": 1.31,
+                "fecha": "2021-12-27"
+            },
+            {
+                "id_calificacion": 271,
+                "id_estudiante": 5,
+                "id_profesor": 1,
+                "id_curso": 7,
+                "calificacion": 7.81,
+                "fecha": "2020-06-28"
+            },
+            {
+                "id_calificacion": 272,
+                "id_estudiante": 51,
+                "id_profesor": 10,
+                "id_curso": 5,
+                "calificacion": 8.23,
+                "fecha": "2023-12-05"
+            },
+            {
+                "id_calificacion": 273,
+                "id_estudiante": 59,
+                "id_profesor": 1,
+                "id_curso": 2,
+                "calificacion": 6.08,
+                "fecha": "2022-07-13"
+            },
+            {
+                "id_calificacion": 274,
+                "id_estudiante": 63,
+                "id_profesor": 13,
+                "id_curso": 7,
+                "calificacion": 0.09,
+                "fecha": "2022-04-03"
+            },
+            {
+                "id_calificacion": 275,
+                "id_estudiante": 3,
+                "id_profesor": 15,
+                "id_curso": 10,
+                "calificacion": 0.83,
+                "fecha": "2021-11-27"
+            },
+            {
+                "id_calificacion": 276,
+                "id_estudiante": 23,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 7.15,
+                "fecha": "2023-08-23"
+            },
+            {
+                "id_calificacion": 277,
+                "id_estudiante": 65,
+                "id_profesor": 16,
+                "id_curso": 7,
+                "calificacion": 0.32,
+                "fecha": "2022-11-07"
+            },
+            {
+                "id_calificacion": 278,
+                "id_estudiante": 43,
+                "id_profesor": 16,
+                "id_curso": 3,
+                "calificacion": 8.08,
+                "fecha": "2022-03-12"
+            },
+            {
+                "id_calificacion": 279,
+                "id_estudiante": 20,
+                "id_profesor": 6,
+                "id_curso": 2,
+                "calificacion": 8.69,
+                "fecha": "2023-12-18"
+            },
+            {
+                "id_calificacion": 280,
+                "id_estudiante": 96,
+                "id_profesor": 13,
+                "id_curso": 3,
+                "calificacion": 6.39,
+                "fecha": "2020-02-13"
+            },
+            {
+                "id_calificacion": 281,
+                "id_estudiante": 33,
+                "id_profesor": 8,
+                "id_curso": 8,
+                "calificacion": 2.2,
+                "fecha": "2021-05-01"
+            },
+            {
+                "id_calificacion": 282,
+                "id_estudiante": 49,
+                "id_profesor": 14,
+                "id_curso": 5,
+                "calificacion": 6.49,
+                "fecha": "2022-06-26"
+            },
+            {
+                "id_calificacion": 283,
+                "id_estudiante": 37,
+                "id_profesor": 10,
+                "id_curso": 9,
+                "calificacion": 2.13,
+                "fecha": "2023-12-05"
+            },
+            {
+                "id_calificacion": 284,
+                "id_estudiante": 30,
+                "id_profesor": 10,
+                "id_curso": 5,
+                "calificacion": 7.43,
+                "fecha": "2023-04-18"
+            },
+            {
+                "id_calificacion": 285,
+                "id_estudiante": 42,
+                "id_profesor": 8,
+                "id_curso": 7,
+                "calificacion": 6.25,
+                "fecha": "2020-01-17"
+            },
+            {
+                "id_calificacion": 286,
+                "id_estudiante": 42,
+                "id_profesor": 3,
+                "id_curso": 1,
+                "calificacion": 2.37,
+                "fecha": "2022-09-15"
+            },
+            {
+                "id_calificacion": 287,
+                "id_estudiante": 98,
+                "id_profesor": 13,
+                "id_curso": 1,
+                "calificacion": 0.02,
+                "fecha": "2023-05-01"
+            },
+            {
+                "id_calificacion": 288,
+                "id_estudiante": 83,
+                "id_profesor": 6,
+                "id_curso": 4,
+                "calificacion": 5.54,
+                "fecha": "2022-10-03"
+            },
+            {
+                "id_calificacion": 289,
+                "id_estudiante": 67,
+                "id_profesor": 20,
+                "id_curso": 7,
+                "calificacion": 5.54,
+                "fecha": "2020-04-15"
+            },
+            {
+                "id_calificacion": 290,
+                "id_estudiante": 84,
+                "id_profesor": 19,
+                "id_curso": 6,
+                "calificacion": 7.59,
+                "fecha": "2021-07-12"
+            },
+            {
+                "id_calificacion": 291,
+                "id_estudiante": 23,
+                "id_profesor": 12,
+                "id_curso": 9,
+                "calificacion": 8.54,
+                "fecha": "2020-07-09"
+            },
+            {
+                "id_calificacion": 292,
+                "id_estudiante": 17,
+                "id_profesor": 20,
+                "id_curso": 3,
+                "calificacion": 3.03,
+                "fecha": "2020-01-21"
+            },
+            {
+                "id_calificacion": 293,
+                "id_estudiante": 86,
+                "id_profesor": 7,
+                "id_curso": 4,
+                "calificacion": 9.58,
+                "fecha": "2022-05-11"
+            },
+            {
+                "id_calificacion": 294,
+                "id_estudiante": 83,
+                "id_profesor": 9,
+                "id_curso": 2,
+                "calificacion": 2.37,
+                "fecha": "2022-06-03"
+            },
+            {
+                "id_calificacion": 295,
+                "id_estudiante": 79,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 2.57,
+                "fecha": "2023-11-17"
+            },
+            {
+                "id_calificacion": 296,
+                "id_estudiante": 8,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 9.64,
+                "fecha": "2022-02-02"
+            },
+            {
+                "id_calificacion": 297,
+                "id_estudiante": 67,
+                "id_profesor": 9,
+                "id_curso": 9,
+                "calificacion": 7.31,
+                "fecha": "2020-08-21"
+            },
+            {
+                "id_calificacion": 298,
+                "id_estudiante": 73,
+                "id_profesor": 6,
+                "id_curso": 9,
+                "calificacion": 7.22,
+                "fecha": "2023-01-16"
+            },
+            {
+                "id_calificacion": 299,
+                "id_estudiante": 92,
+                "id_profesor": 14,
+                "id_curso": 6,
+                "calificacion": 1.05,
+                "fecha": "2020-05-14"
+            },
+            {
+                "id_calificacion": 300,
+                "id_estudiante": 72,
+                "id_profesor": 19,
+                "id_curso": 7,
+                "calificacion": 3.77,
+                "fecha": "2023-07-09"
+            },
+            {
+                "id_calificacion": 301,
+                "id_estudiante": 11,
+                "id_profesor": 16,
+                "id_curso": 10,
+                "calificacion": 6.2,
+                "fecha": "2020-10-23"
+            },
+            {
+                "id_calificacion": 302,
+                "id_estudiante": 29,
+                "id_profesor": 19,
+                "id_curso": 5,
+                "calificacion": 9.76,
+                "fecha": "2021-03-28"
+            },
+            {
+                "id_calificacion": 303,
+                "id_estudiante": 36,
+                "id_profesor": 13,
+                "id_curso": 1,
+                "calificacion": 3.12,
+                "fecha": "2023-09-08"
+            },
+            {
+                "id_calificacion": 304,
+                "id_estudiante": 14,
+                "id_profesor": 8,
+                "id_curso": 10,
+                "calificacion": 8.82,
+                "fecha": "2023-01-19"
+            },
+            {
+                "id_calificacion": 305,
+                "id_estudiante": 34,
+                "id_profesor": 15,
+                "id_curso": 8,
+                "calificacion": 0.04,
+                "fecha": "2022-02-04"
+            },
+            {
+                "id_calificacion": 306,
+                "id_estudiante": 88,
+                "id_profesor": 19,
+                "id_curso": 4,
+                "calificacion": 4.94,
+                "fecha": "2022-06-05"
+            },
+            {
+                "id_calificacion": 307,
+                "id_estudiante": 88,
+                "id_profesor": 4,
+                "id_curso": 2,
+                "calificacion": 5.43,
+                "fecha": "2021-10-10"
+            },
+            {
+                "id_calificacion": 308,
+                "id_estudiante": 75,
+                "id_profesor": 15,
+                "id_curso": 4,
+                "calificacion": 3.57,
+                "fecha": "2020-10-09"
+            },
+            {
+                "id_calificacion": 309,
+                "id_estudiante": 51,
+                "id_profesor": 19,
+                "id_curso": 8,
+                "calificacion": 7.43,
+                "fecha": "2022-01-28"
+            },
+            {
+                "id_calificacion": 310,
+                "id_estudiante": 64,
+                "id_profesor": 8,
+                "id_curso": 8,
+                "calificacion": 1.43,
+                "fecha": "2021-04-01"
+            },
+            {
+                "id_calificacion": 311,
+                "id_estudiante": 67,
+                "id_profesor": 17,
+                "id_curso": 4,
+                "calificacion": 7.84,
+                "fecha": "2022-08-31"
+            },
+            {
+                "id_calificacion": 312,
+                "id_estudiante": 53,
+                "id_profesor": 10,
+                "id_curso": 6,
+                "calificacion": 2.33,
+                "fecha": "2021-02-22"
+            },
+            {
+                "id_calificacion": 313,
+                "id_estudiante": 59,
+                "id_profesor": 12,
+                "id_curso": 3,
+                "calificacion": 0.6,
+                "fecha": "2021-08-27"
+            },
+            {
+                "id_calificacion": 314,
+                "id_estudiante": 72,
+                "id_profesor": 14,
+                "id_curso": 4,
+                "calificacion": 8.19,
+                "fecha": "2023-03-11"
+            },
+            {
+                "id_calificacion": 315,
+                "id_estudiante": 21,
+                "id_profesor": 5,
+                "id_curso": 3,
+                "calificacion": 1.82,
+                "fecha": "2020-08-23"
+            },
+            {
+                "id_calificacion": 316,
+                "id_estudiante": 96,
+                "id_profesor": 19,
+                "id_curso": 1,
+                "calificacion": 5.91,
+                "fecha": "2022-06-07"
+            },
+            {
+                "id_calificacion": 317,
+                "id_estudiante": 36,
+                "id_profesor": 18,
+                "id_curso": 10,
+                "calificacion": 7.48,
+                "fecha": "2023-03-13"
+            },
+            {
+                "id_calificacion": 318,
+                "id_estudiante": 12,
+                "id_profesor": 1,
+                "id_curso": 10,
+                "calificacion": 6.53,
+                "fecha": "2023-11-05"
+            },
+            {
+                "id_calificacion": 319,
+                "id_estudiante": 63,
+                "id_profesor": 6,
+                "id_curso": 8,
+                "calificacion": 5.03,
+                "fecha": "2023-06-25"
+            },
+            {
+                "id_calificacion": 320,
+                "id_estudiante": 74,
+                "id_profesor": 11,
+                "id_curso": 5,
+                "calificacion": 5.65,
+                "fecha": "2022-09-06"
+            },
+            {
+                "id_calificacion": 321,
+                "id_estudiante": 79,
+                "id_profesor": 5,
+                "id_curso": 8,
+                "calificacion": 1.54,
+                "fecha": "2021-06-26"
+            },
+            {
+                "id_calificacion": 322,
+                "id_estudiante": 40,
+                "id_profesor": 14,
+                "id_curso": 2,
+                "calificacion": 9.41,
+                "fecha": "2020-04-21"
+            },
+            {
+                "id_calificacion": 323,
+                "id_estudiante": 65,
+                "id_profesor": 2,
+                "id_curso": 7,
+                "calificacion": 0.71,
+                "fecha": "2022-06-19"
+            },
+            {
+                "id_calificacion": 324,
+                "id_estudiante": 29,
+                "id_profesor": 19,
+                "id_curso": 9,
+                "calificacion": 5.43,
+                "fecha": "2023-11-03"
+            },
+            {
+                "id_calificacion": 325,
+                "id_estudiante": 61,
+                "id_profesor": 14,
+                "id_curso": 6,
+                "calificacion": 4.11,
+                "fecha": "2022-12-08"
+            },
+            {
+                "id_calificacion": 326,
+                "id_estudiante": 5,
+                "id_profesor": 5,
+                "id_curso": 8,
+                "calificacion": 8.8,
+                "fecha": "2021-03-23"
+            },
+            {
+                "id_calificacion": 327,
+                "id_estudiante": 21,
+                "id_profesor": 1,
+                "id_curso": 10,
+                "calificacion": 0.1,
+                "fecha": "2023-11-17"
+            },
+            {
+                "id_calificacion": 328,
+                "id_estudiante": 48,
+                "id_profesor": 5,
+                "id_curso": 9,
+                "calificacion": 2.76,
+                "fecha": "2020-12-09"
+            },
+            {
+                "id_calificacion": 329,
+                "id_estudiante": 42,
+                "id_profesor": 19,
+                "id_curso": 9,
+                "calificacion": 3.39,
+                "fecha": "2021-07-30"
+            },
+            {
+                "id_calificacion": 330,
+                "id_estudiante": 36,
+                "id_profesor": 7,
+                "id_curso": 7,
+                "calificacion": 9.25,
+                "fecha": "2021-06-26"
+            },
+            {
+                "id_calificacion": 331,
+                "id_estudiante": 77,
+                "id_profesor": 1,
+                "id_curso": 6,
+                "calificacion": 9.46,
+                "fecha": "2023-12-27"
+            },
+            {
+                "id_calificacion": 332,
+                "id_estudiante": 18,
+                "id_profesor": 3,
+                "id_curso": 5,
+                "calificacion": 9.69,
+                "fecha": "2021-06-05"
+            },
+            {
+                "id_calificacion": 333,
+                "id_estudiante": 92,
+                "id_profesor": 1,
+                "id_curso": 1,
+                "calificacion": 9.7,
+                "fecha": "2022-08-22"
+            },
+            {
+                "id_calificacion": 334,
+                "id_estudiante": 19,
+                "id_profesor": 20,
+                "id_curso": 10,
+                "calificacion": 9.13,
+                "fecha": "2021-09-08"
+            },
+            {
+                "id_calificacion": 335,
+                "id_estudiante": 20,
+                "id_profesor": 19,
+                "id_curso": 1,
+                "calificacion": 0.91,
+                "fecha": "2022-09-17"
+            },
+            {
+                "id_calificacion": 336,
+                "id_estudiante": 5,
+                "id_profesor": 3,
+                "id_curso": 1,
+                "calificacion": 5.76,
+                "fecha": "2022-07-19"
+            },
+            {
+                "id_calificacion": 337,
+                "id_estudiante": 93,
+                "id_profesor": 6,
+                "id_curso": 5,
+                "calificacion": 2.03,
+                "fecha": "2020-10-16"
+            },
+            {
+                "id_calificacion": 338,
+                "id_estudiante": 62,
+                "id_profesor": 14,
+                "id_curso": 3,
+                "calificacion": 8.81,
+                "fecha": "2023-05-04"
+            },
+            {
+                "id_calificacion": 339,
+                "id_estudiante": 70,
+                "id_profesor": 6,
+                "id_curso": 2,
+                "calificacion": 7.73,
+                "fecha": "2022-11-15"
+            },
+            {
+                "id_calificacion": 340,
+                "id_estudiante": 53,
+                "id_profesor": 4,
+                "id_curso": 4,
+                "calificacion": 4.39,
+                "fecha": "2021-08-10"
+            },
+            {
+                "id_calificacion": 341,
+                "id_estudiante": 44,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 0.74,
+                "fecha": "2021-01-19"
+            },
+            {
+                "id_calificacion": 342,
+                "id_estudiante": 91,
+                "id_profesor": 7,
+                "id_curso": 9,
+                "calificacion": 1.35,
+                "fecha": "2022-06-24"
+            },
+            {
+                "id_calificacion": 343,
+                "id_estudiante": 81,
+                "id_profesor": 10,
+                "id_curso": 1,
+                "calificacion": 7.44,
+                "fecha": "2020-02-09"
+            },
+            {
+                "id_calificacion": 344,
+                "id_estudiante": 66,
+                "id_profesor": 18,
+                "id_curso": 4,
+                "calificacion": 2.71,
+                "fecha": "2020-10-07"
+            },
+            {
+                "id_calificacion": 345,
+                "id_estudiante": 88,
+                "id_profesor": 7,
+                "id_curso": 7,
+                "calificacion": 0.17,
+                "fecha": "2020-05-22"
+            },
+            {
+                "id_calificacion": 346,
+                "id_estudiante": 84,
+                "id_profesor": 10,
+                "id_curso": 8,
+                "calificacion": 8.7,
+                "fecha": "2020-01-29"
+            },
+            {
+                "id_calificacion": 347,
+                "id_estudiante": 26,
+                "id_profesor": 18,
+                "id_curso": 2,
+                "calificacion": 1.55,
+                "fecha": "2021-05-12"
+            },
+            {
+                "id_calificacion": 348,
+                "id_estudiante": 84,
+                "id_profesor": 14,
+                "id_curso": 9,
+                "calificacion": 2.94,
+                "fecha": "2022-06-16"
+            },
+            {
+                "id_calificacion": 349,
+                "id_estudiante": 73,
+                "id_profesor": 19,
+                "id_curso": 5,
+                "calificacion": 7.57,
+                "fecha": "2022-04-09"
+            },
+            {
+                "id_calificacion": 350,
+                "id_estudiante": 50,
+                "id_profesor": 12,
+                "id_curso": 3,
+                "calificacion": 7.67,
+                "fecha": "2023-02-03"
+            },
+            {
+                "id_calificacion": 351,
+                "id_estudiante": 92,
+                "id_profesor": 18,
+                "id_curso": 8,
+                "calificacion": 3.0,
+                "fecha": "2023-04-09"
+            },
+            {
+                "id_calificacion": 352,
+                "id_estudiante": 84,
+                "id_profesor": 12,
+                "id_curso": 4,
+                "calificacion": 2.32,
+                "fecha": "2021-05-13"
+            },
+            {
+                "id_calificacion": 353,
+                "id_estudiante": 20,
+                "id_profesor": 10,
+                "id_curso": 4,
+                "calificacion": 0.66,
+                "fecha": "2021-02-08"
+            },
+            {
+                "id_calificacion": 354,
+                "id_estudiante": 8,
+                "id_profesor": 7,
+                "id_curso": 9,
+                "calificacion": 0.61,
+                "fecha": "2022-10-03"
+            },
+            {
+                "id_calificacion": 355,
+                "id_estudiante": 60,
+                "id_profesor": 1,
+                "id_curso": 2,
+                "calificacion": 5.93,
+                "fecha": "2022-10-20"
+            },
+            {
+                "id_calificacion": 356,
+                "id_estudiante": 10,
+                "id_profesor": 5,
+                "id_curso": 8,
+                "calificacion": 3.81,
+                "fecha": "2023-07-18"
+            },
+            {
+                "id_calificacion": 357,
+                "id_estudiante": 24,
+                "id_profesor": 8,
+                "id_curso": 10,
+                "calificacion": 0.41,
+                "fecha": "2021-08-25"
+            },
+            {
+                "id_calificacion": 358,
+                "id_estudiante": 14,
+                "id_profesor": 15,
+                "id_curso": 5,
+                "calificacion": 2.79,
+                "fecha": "2022-08-11"
+            },
+            {
+                "id_calificacion": 359,
+                "id_estudiante": 73,
+                "id_profesor": 5,
+                "id_curso": 6,
+                "calificacion": 3.67,
+                "fecha": "2021-10-10"
+            },
+            {
+                "id_calificacion": 360,
+                "id_estudiante": 85,
+                "id_profesor": 1,
+                "id_curso": 9,
+                "calificacion": 1.22,
+                "fecha": "2023-08-11"
+            },
+            {
+                "id_calificacion": 361,
+                "id_estudiante": 35,
+                "id_profesor": 8,
+                "id_curso": 9,
+                "calificacion": 7.3,
+                "fecha": "2022-04-24"
+            },
+            {
+                "id_calificacion": 362,
+                "id_estudiante": 51,
+                "id_profesor": 1,
+                "id_curso": 6,
+                "calificacion": 6.48,
+                "fecha": "2020-01-10"
+            },
+            {
+                "id_calificacion": 363,
+                "id_estudiante": 46,
+                "id_profesor": 14,
+                "id_curso": 5,
+                "calificacion": 1.91,
+                "fecha": "2021-01-12"
+            },
+            {
+                "id_calificacion": 364,
+                "id_estudiante": 66,
+                "id_profesor": 10,
+                "id_curso": 2,
+                "calificacion": 8.96,
+                "fecha": "2023-04-13"
+            },
+            {
+                "id_calificacion": 365,
+                "id_estudiante": 11,
+                "id_profesor": 18,
+                "id_curso": 1,
+                "calificacion": 0.08,
+                "fecha": "2020-07-15"
+            },
+            {
+                "id_calificacion": 366,
+                "id_estudiante": 89,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 6.33,
+                "fecha": "2021-08-06"
+            },
+            {
+                "id_calificacion": 367,
+                "id_estudiante": 64,
+                "id_profesor": 15,
+                "id_curso": 1,
+                "calificacion": 4.48,
+                "fecha": "2022-03-19"
+            },
+            {
+                "id_calificacion": 368,
+                "id_estudiante": 35,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 5.73,
+                "fecha": "2020-03-10"
+            },
+            {
+                "id_calificacion": 369,
+                "id_estudiante": 21,
+                "id_profesor": 4,
+                "id_curso": 7,
+                "calificacion": 0.03,
+                "fecha": "2020-05-31"
+            },
+            {
+                "id_calificacion": 370,
+                "id_estudiante": 29,
+                "id_profesor": 14,
+                "id_curso": 9,
+                "calificacion": 1.26,
+                "fecha": "2020-08-15"
+            },
+            {
+                "id_calificacion": 371,
+                "id_estudiante": 7,
+                "id_profesor": 15,
+                "id_curso": 6,
+                "calificacion": 9.19,
+                "fecha": "2023-04-22"
+            },
+            {
+                "id_calificacion": 372,
+                "id_estudiante": 48,
+                "id_profesor": 20,
+                "id_curso": 2,
+                "calificacion": 7.65,
+                "fecha": "2023-03-30"
+            },
+            {
+                "id_calificacion": 373,
+                "id_estudiante": 16,
+                "id_profesor": 9,
+                "id_curso": 3,
+                "calificacion": 3.24,
+                "fecha": "2023-03-07"
+            },
+            {
+                "id_calificacion": 374,
+                "id_estudiante": 77,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 1.28,
+                "fecha": "2022-06-18"
+            },
+            {
+                "id_calificacion": 375,
+                "id_estudiante": 29,
+                "id_profesor": 4,
+                "id_curso": 1,
+                "calificacion": 5.73,
+                "fecha": "2021-11-23"
+            },
+            {
+                "id_calificacion": 376,
+                "id_estudiante": 95,
+                "id_profesor": 2,
+                "id_curso": 5,
+                "calificacion": 4.57,
+                "fecha": "2022-01-14"
+            },
+            {
+                "id_calificacion": 377,
+                "id_estudiante": 83,
+                "id_profesor": 4,
+                "id_curso": 5,
+                "calificacion": 9.52,
+                "fecha": "2022-11-05"
+            },
+            {
+                "id_calificacion": 378,
+                "id_estudiante": 58,
+                "id_profesor": 6,
+                "id_curso": 6,
+                "calificacion": 7.46,
+                "fecha": "2023-05-16"
+            },
+            {
+                "id_calificacion": 379,
+                "id_estudiante": 47,
+                "id_profesor": 12,
+                "id_curso": 5,
+                "calificacion": 8.36,
+                "fecha": "2022-01-23"
+            },
+            {
+                "id_calificacion": 380,
+                "id_estudiante": 72,
+                "id_profesor": 6,
+                "id_curso": 7,
+                "calificacion": 1.68,
+                "fecha": "2022-04-23"
+            },
+            {
+                "id_calificacion": 381,
+                "id_estudiante": 35,
+                "id_profesor": 6,
+                "id_curso": 7,
+                "calificacion": 5.39,
+                "fecha": "2022-05-13"
+            },
+            {
+                "id_calificacion": 382,
+                "id_estudiante": 75,
+                "id_profesor": 18,
+                "id_curso": 5,
+                "calificacion": 3.2,
+                "fecha": "2021-10-13"
+            },
+            {
+                "id_calificacion": 383,
+                "id_estudiante": 53,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 9.0,
+                "fecha": "2023-05-17"
+            },
+            {
+                "id_calificacion": 384,
+                "id_estudiante": 67,
+                "id_profesor": 5,
+                "id_curso": 8,
+                "calificacion": 4.24,
+                "fecha": "2021-08-21"
+            },
+            {
+                "id_calificacion": 385,
+                "id_estudiante": 7,
+                "id_profesor": 8,
+                "id_curso": 6,
+                "calificacion": 7.68,
+                "fecha": "2021-05-26"
+            },
+            {
+                "id_calificacion": 386,
+                "id_estudiante": 30,
+                "id_profesor": 8,
+                "id_curso": 3,
+                "calificacion": 2.79,
+                "fecha": "2022-07-29"
+            },
+            {
+                "id_calificacion": 387,
+                "id_estudiante": 49,
+                "id_profesor": 10,
+                "id_curso": 6,
+                "calificacion": 3.32,
+                "fecha": "2023-09-01"
+            },
+            {
+                "id_calificacion": 388,
+                "id_estudiante": 39,
+                "id_profesor": 20,
+                "id_curso": 3,
+                "calificacion": 3.04,
+                "fecha": "2022-08-23"
+            },
+            {
+                "id_calificacion": 389,
+                "id_estudiante": 12,
+                "id_profesor": 10,
+                "id_curso": 1,
+                "calificacion": 4.77,
+                "fecha": "2023-12-02"
+            },
+            {
+                "id_calificacion": 390,
+                "id_estudiante": 41,
+                "id_profesor": 4,
+                "id_curso": 6,
+                "calificacion": 5.8,
+                "fecha": "2022-01-29"
+            },
+            {
+                "id_calificacion": 391,
+                "id_estudiante": 70,
+                "id_profesor": 12,
+                "id_curso": 5,
+                "calificacion": 1.65,
+                "fecha": "2023-05-13"
+            },
+            {
+                "id_calificacion": 392,
+                "id_estudiante": 32,
+                "id_profesor": 20,
+                "id_curso": 5,
+                "calificacion": 0.24,
+                "fecha": "2022-02-02"
+            },
+            {
+                "id_calificacion": 393,
+                "id_estudiante": 63,
+                "id_profesor": 4,
+                "id_curso": 1,
+                "calificacion": 5.09,
+                "fecha": "2021-02-03"
+            },
+            {
+                "id_calificacion": 394,
+                "id_estudiante": 17,
+                "id_profesor": 5,
+                "id_curso": 5,
+                "calificacion": 3.37,
+                "fecha": "2021-06-10"
+            },
+            {
+                "id_calificacion": 395,
+                "id_estudiante": 97,
+                "id_profesor": 10,
+                "id_curso": 8,
+                "calificacion": 5.73,
+                "fecha": "2021-07-20"
+            },
+            {
+                "id_calificacion": 396,
+                "id_estudiante": 81,
+                "id_profesor": 2,
+                "id_curso": 7,
+                "calificacion": 5.32,
+                "fecha": "2021-02-20"
+            },
+            {
+                "id_calificacion": 397,
+                "id_estudiante": 81,
+                "id_profesor": 3,
+                "id_curso": 8,
+                "calificacion": 5.03,
+                "fecha": "2023-07-21"
+            },
+            {
+                "id_calificacion": 398,
+                "id_estudiante": 87,
+                "id_profesor": 6,
+                "id_curso": 2,
+                "calificacion": 1.62,
+                "fecha": "2020-03-01"
+            },
+            {
+                "id_calificacion": 399,
+                "id_estudiante": 63,
+                "id_profesor": 16,
+                "id_curso": 10,
+                "calificacion": 4.45,
+                "fecha": "2020-01-18"
+            },
+            {
+                "id_calificacion": 400,
+                "id_estudiante": 74,
+                "id_profesor": 18,
+                "id_curso": 2,
+                "calificacion": 7.65,
+                "fecha": "2023-10-25"
+            },
+            {
+                "id_calificacion": 401,
+                "id_estudiante": 66,
+                "id_profesor": 13,
+                "id_curso": 2,
+                "calificacion": 8.58,
+                "fecha": "2020-04-07"
+            },
+            {
+                "id_calificacion": 402,
+                "id_estudiante": 56,
+                "id_profesor": 6,
+                "id_curso": 3,
+                "calificacion": 4.23,
+                "fecha": "2020-05-25"
+            },
+            {
+                "id_calificacion": 403,
+                "id_estudiante": 83,
+                "id_profesor": 15,
+                "id_curso": 10,
+                "calificacion": 2.31,
+                "fecha": "2023-10-21"
+            },
+            {
+                "id_calificacion": 404,
+                "id_estudiante": 97,
+                "id_profesor": 4,
+                "id_curso": 1,
+                "calificacion": 1.51,
+                "fecha": "2020-07-23"
+            },
+            {
+                "id_calificacion": 405,
+                "id_estudiante": 83,
+                "id_profesor": 18,
+                "id_curso": 4,
+                "calificacion": 7.34,
+                "fecha": "2021-02-11"
+            },
+            {
+                "id_calificacion": 406,
+                "id_estudiante": 93,
+                "id_profesor": 8,
+                "id_curso": 1,
+                "calificacion": 4.51,
+                "fecha": "2021-11-05"
+            },
+            {
+                "id_calificacion": 407,
+                "id_estudiante": 89,
+                "id_profesor": 12,
+                "id_curso": 7,
+                "calificacion": 9.1,
+                "fecha": "2022-04-27"
+            },
+            {
+                "id_calificacion": 408,
+                "id_estudiante": 28,
+                "id_profesor": 18,
+                "id_curso": 5,
+                "calificacion": 1.58,
+                "fecha": "2020-12-25"
+            },
+            {
+                "id_calificacion": 409,
+                "id_estudiante": 97,
+                "id_profesor": 1,
+                "id_curso": 3,
+                "calificacion": 8.8,
+                "fecha": "2022-11-11"
+            },
+            {
+                "id_calificacion": 410,
+                "id_estudiante": 18,
+                "id_profesor": 1,
+                "id_curso": 2,
+                "calificacion": 2.27,
+                "fecha": "2021-10-17"
+            },
+            {
+                "id_calificacion": 411,
+                "id_estudiante": 84,
+                "id_profesor": 15,
+                "id_curso": 9,
+                "calificacion": 3.54,
+                "fecha": "2022-11-27"
+            },
+            {
+                "id_calificacion": 412,
+                "id_estudiante": 61,
+                "id_profesor": 2,
+                "id_curso": 10,
+                "calificacion": 6.3,
+                "fecha": "2021-05-23"
+            },
+            {
+                "id_calificacion": 413,
+                "id_estudiante": 83,
+                "id_profesor": 9,
+                "id_curso": 9,
+                "calificacion": 5.62,
+                "fecha": "2020-12-23"
+            },
+            {
+                "id_calificacion": 414,
+                "id_estudiante": 17,
+                "id_profesor": 3,
+                "id_curso": 5,
+                "calificacion": 6.52,
+                "fecha": "2021-04-25"
+            },
+            {
+                "id_calificacion": 415,
+                "id_estudiante": 99,
+                "id_profesor": 1,
+                "id_curso": 8,
+                "calificacion": 2.6,
+                "fecha": "2021-08-18"
+            },
+            {
+                "id_calificacion": 416,
+                "id_estudiante": 59,
+                "id_profesor": 6,
+                "id_curso": 2,
+                "calificacion": 8.6,
+                "fecha": "2021-11-30"
+            },
+            {
+                "id_calificacion": 417,
+                "id_estudiante": 23,
+                "id_profesor": 16,
+                "id_curso": 9,
+                "calificacion": 2.81,
+                "fecha": "2022-04-28"
+            },
+            {
+                "id_calificacion": 418,
+                "id_estudiante": 14,
+                "id_profesor": 5,
+                "id_curso": 8,
+                "calificacion": 5.78,
+                "fecha": "2022-05-26"
+            },
+            {
+                "id_calificacion": 419,
+                "id_estudiante": 82,
+                "id_profesor": 15,
+                "id_curso": 10,
+                "calificacion": 1.42,
+                "fecha": "2022-02-03"
+            },
+            {
+                "id_calificacion": 420,
+                "id_estudiante": 19,
+                "id_profesor": 19,
+                "id_curso": 1,
+                "calificacion": 0.15,
+                "fecha": "2021-02-01"
+            },
+            {
+                "id_calificacion": 421,
+                "id_estudiante": 93,
+                "id_profesor": 5,
+                "id_curso": 7,
+                "calificacion": 4.68,
+                "fecha": "2020-10-28"
+            },
+            {
+                "id_calificacion": 422,
+                "id_estudiante": 56,
+                "id_profesor": 4,
+                "id_curso": 5,
+                "calificacion": 5.82,
+                "fecha": "2022-09-08"
+            },
+            {
+                "id_calificacion": 423,
+                "id_estudiante": 43,
+                "id_profesor": 9,
+                "id_curso": 9,
+                "calificacion": 5.91,
+                "fecha": "2021-02-04"
+            },
+            {
+                "id_calificacion": 424,
+                "id_estudiante": 51,
+                "id_profesor": 8,
+                "id_curso": 6,
+                "calificacion": 4.17,
+                "fecha": "2022-10-03"
+            },
+            {
+                "id_calificacion": 425,
+                "id_estudiante": 75,
+                "id_profesor": 10,
+                "id_curso": 3,
+                "calificacion": 6.5,
+                "fecha": "2023-12-24"
+            },
+            {
+                "id_calificacion": 426,
+                "id_estudiante": 55,
+                "id_profesor": 14,
+                "id_curso": 1,
+                "calificacion": 2.96,
+                "fecha": "2023-10-23"
+            },
+            {
+                "id_calificacion": 427,
+                "id_estudiante": 5,
+                "id_profesor": 4,
+                "id_curso": 3,
+                "calificacion": 6.71,
+                "fecha": "2022-12-21"
+            },
+            {
+                "id_calificacion": 428,
+                "id_estudiante": 44,
+                "id_profesor": 16,
+                "id_curso": 1,
+                "calificacion": 8.16,
+                "fecha": "2023-11-12"
+            },
+            {
+                "id_calificacion": 429,
+                "id_estudiante": 30,
+                "id_profesor": 14,
+                "id_curso": 6,
+                "calificacion": 5.83,
+                "fecha": "2020-04-14"
+            },
+            {
+                "id_calificacion": 430,
+                "id_estudiante": 16,
+                "id_profesor": 7,
+                "id_curso": 6,
+                "calificacion": 7.73,
+                "fecha": "2020-03-29"
+            },
+            {
+                "id_calificacion": 431,
+                "id_estudiante": 88,
+                "id_profesor": 7,
+                "id_curso": 2,
+                "calificacion": 1.06,
+                "fecha": "2021-03-02"
+            },
+            {
+                "id_calificacion": 432,
+                "id_estudiante": 96,
+                "id_profesor": 19,
+                "id_curso": 3,
+                "calificacion": 0.13,
+                "fecha": "2023-08-21"
+            },
+            {
+                "id_calificacion": 433,
+                "id_estudiante": 21,
+                "id_profesor": 8,
+                "id_curso": 6,
+                "calificacion": 1.28,
+                "fecha": "2022-12-27"
+            },
+            {
+                "id_calificacion": 434,
+                "id_estudiante": 47,
+                "id_profesor": 7,
+                "id_curso": 10,
+                "calificacion": 4.31,
+                "fecha": "2022-01-17"
+            },
+            {
+                "id_calificacion": 435,
+                "id_estudiante": 16,
+                "id_profesor": 8,
+                "id_curso": 1,
+                "calificacion": 9.56,
+                "fecha": "2023-08-01"
+            },
+            {
+                "id_calificacion": 436,
+                "id_estudiante": 71,
+                "id_profesor": 16,
+                "id_curso": 6,
+                "calificacion": 2.74,
+                "fecha": "2021-04-21"
+            },
+            {
+                "id_calificacion": 437,
+                "id_estudiante": 12,
+                "id_profesor": 20,
+                "id_curso": 8,
+                "calificacion": 5.68,
+                "fecha": "2021-12-15"
+            },
+            {
+                "id_calificacion": 438,
+                "id_estudiante": 8,
+                "id_profesor": 19,
+                "id_curso": 8,
+                "calificacion": 9.57,
+                "fecha": "2022-06-08"
+            },
+            {
+                "id_calificacion": 439,
+                "id_estudiante": 71,
+                "id_profesor": 10,
+                "id_curso": 2,
+                "calificacion": 0.24,
+                "fecha": "2022-08-24"
+            },
+            {
+                "id_calificacion": 440,
+                "id_estudiante": 67,
+                "id_profesor": 1,
+                "id_curso": 4,
+                "calificacion": 0.54,
+                "fecha": "2023-08-04"
+            },
+            {
+                "id_calificacion": 441,
+                "id_estudiante": 5,
+                "id_profesor": 6,
+                "id_curso": 6,
+                "calificacion": 5.9,
+                "fecha": "2020-11-07"
+            },
+            {
+                "id_calificacion": 442,
+                "id_estudiante": 26,
+                "id_profesor": 13,
+                "id_curso": 1,
+                "calificacion": 0.72,
+                "fecha": "2020-03-10"
+            },
+            {
+                "id_calificacion": 443,
+                "id_estudiante": 97,
+                "id_profesor": 2,
+                "id_curso": 8,
+                "calificacion": 4.62,
+                "fecha": "2023-12-14"
+            },
+            {
+                "id_calificacion": 444,
+                "id_estudiante": 24,
+                "id_profesor": 11,
+                "id_curso": 6,
+                "calificacion": 8.63,
+                "fecha": "2021-10-22"
+            },
+            {
+                "id_calificacion": 445,
+                "id_estudiante": 56,
+                "id_profesor": 17,
+                "id_curso": 8,
+                "calificacion": 1.63,
+                "fecha": "2022-05-20"
+            },
+            {
+                "id_calificacion": 446,
+                "id_estudiante": 60,
+                "id_profesor": 9,
+                "id_curso": 1,
+                "calificacion": 0.51,
+                "fecha": "2023-02-13"
+            },
+            {
+                "id_calificacion": 447,
+                "id_estudiante": 85,
+                "id_profesor": 17,
+                "id_curso": 4,
+                "calificacion": 9.29,
+                "fecha": "2023-06-17"
+            },
+            {
+                "id_calificacion": 448,
+                "id_estudiante": 76,
+                "id_profesor": 9,
+                "id_curso": 10,
+                "calificacion": 3.03,
+                "fecha": "2021-01-14"
+            },
+            {
+                "id_calificacion": 449,
+                "id_estudiante": 58,
+                "id_profesor": 4,
+                "id_curso": 1,
+                "calificacion": 0.43,
+                "fecha": "2022-11-08"
+            },
+            {
+                "id_calificacion": 450,
+                "id_estudiante": 100,
+                "id_profesor": 17,
+                "id_curso": 7,
+                "calificacion": 8.06,
+                "fecha": "2021-02-23"
+            },
+            {
+                "id_calificacion": 451,
+                "id_estudiante": 99,
+                "id_profesor": 19,
+                "id_curso": 10,
+                "calificacion": 8.03,
+                "fecha": "2021-03-20"
+            },
+            {
+                "id_calificacion": 452,
+                "id_estudiante": 97,
+                "id_profesor": 14,
+                "id_curso": 10,
+                "calificacion": 6.99,
+                "fecha": "2021-01-15"
+            },
+            {
+                "id_calificacion": 453,
+                "id_estudiante": 11,
+                "id_profesor": 12,
+                "id_curso": 2,
+                "calificacion": 4.5,
+                "fecha": "2022-10-04"
+            },
+            {
+                "id_calificacion": 454,
+                "id_estudiante": 78,
+                "id_profesor": 15,
+                "id_curso": 1,
+                "calificacion": 5.02,
+                "fecha": "2023-07-15"
+            },
+            {
+                "id_calificacion": 455,
+                "id_estudiante": 77,
+                "id_profesor": 10,
+                "id_curso": 5,
+                "calificacion": 7.54,
+                "fecha": "2021-10-29"
+            },
+            {
+                "id_calificacion": 456,
+                "id_estudiante": 18,
+                "id_profesor": 17,
+                "id_curso": 3,
+                "calificacion": 4.33,
+                "fecha": "2021-01-23"
+            },
+            {
+                "id_calificacion": 457,
+                "id_estudiante": 89,
+                "id_profesor": 2,
+                "id_curso": 3,
+                "calificacion": 3.63,
+                "fecha": "2020-08-30"
+            },
+            {
+                "id_calificacion": 458,
+                "id_estudiante": 31,
+                "id_profesor": 14,
+                "id_curso": 8,
+                "calificacion": 6.13,
+                "fecha": "2021-07-06"
+            },
+            {
+                "id_calificacion": 459,
+                "id_estudiante": 49,
+                "id_profesor": 18,
+                "id_curso": 7,
+                "calificacion": 0.96,
+                "fecha": "2020-06-05"
+            },
+            {
+                "id_calificacion": 460,
+                "id_estudiante": 85,
+                "id_profesor": 8,
+                "id_curso": 2,
+                "calificacion": 2.2,
+                "fecha": "2021-03-14"
+            },
+            {
+                "id_calificacion": 461,
+                "id_estudiante": 35,
+                "id_profesor": 2,
+                "id_curso": 10,
+                "calificacion": 4.88,
+                "fecha": "2021-07-10"
+            },
+            {
+                "id_calificacion": 462,
+                "id_estudiante": 77,
+                "id_profesor": 11,
+                "id_curso": 3,
+                "calificacion": 7.6,
+                "fecha": "2020-01-19"
+            },
+            {
+                "id_calificacion": 463,
+                "id_estudiante": 68,
+                "id_profesor": 16,
+                "id_curso": 10,
+                "calificacion": 5.95,
+                "fecha": "2022-06-28"
+            },
+            {
+                "id_calificacion": 464,
+                "id_estudiante": 98,
+                "id_profesor": 13,
+                "id_curso": 3,
+                "calificacion": 6.28,
+                "fecha": "2020-07-08"
+            },
+            {
+                "id_calificacion": 465,
+                "id_estudiante": 22,
+                "id_profesor": 18,
+                "id_curso": 7,
+                "calificacion": 8.14,
+                "fecha": "2022-12-02"
+            },
+            {
+                "id_calificacion": 466,
+                "id_estudiante": 7,
+                "id_profesor": 11,
+                "id_curso": 2,
+                "calificacion": 2.59,
+                "fecha": "2023-01-22"
+            },
+            {
+                "id_calificacion": 467,
+                "id_estudiante": 13,
+                "id_profesor": 13,
+                "id_curso": 7,
+                "calificacion": 4.96,
+                "fecha": "2023-07-12"
+            },
+            {
+                "id_calificacion": 468,
+                "id_estudiante": 96,
+                "id_profesor": 7,
+                "id_curso": 7,
+                "calificacion": 0.75,
+                "fecha": "2023-07-27"
+            },
+            {
+                "id_calificacion": 469,
+                "id_estudiante": 58,
+                "id_profesor": 14,
+                "id_curso": 10,
+                "calificacion": 1.57,
+                "fecha": "2021-06-14"
+            },
+            {
+                "id_calificacion": 470,
+                "id_estudiante": 91,
+                "id_profesor": 4,
+                "id_curso": 2,
+                "calificacion": 4.29,
+                "fecha": "2022-04-11"
+            },
+            {
+                "id_calificacion": 471,
+                "id_estudiante": 69,
+                "id_profesor": 7,
+                "id_curso": 4,
+                "calificacion": 3.32,
+                "fecha": "2021-11-14"
+            },
+            {
+                "id_calificacion": 472,
+                "id_estudiante": 81,
+                "id_profesor": 4,
+                "id_curso": 2,
+                "calificacion": 7.73,
+                "fecha": "2022-04-28"
+            },
+            {
+                "id_calificacion": 473,
+                "id_estudiante": 69,
+                "id_profesor": 3,
+                "id_curso": 6,
+                "calificacion": 0.8,
+                "fecha": "2021-01-17"
+            },
+            {
+                "id_calificacion": 474,
+                "id_estudiante": 63,
+                "id_profesor": 1,
+                "id_curso": 7,
+                "calificacion": 1.27,
+                "fecha": "2023-07-05"
+            },
+            {
+                "id_calificacion": 475,
+                "id_estudiante": 26,
+                "id_profesor": 5,
+                "id_curso": 5,
+                "calificacion": 8.47,
+                "fecha": "2021-01-07"
+            },
+            {
+                "id_calificacion": 476,
+                "id_estudiante": 43,
+                "id_profesor": 3,
+                "id_curso": 10,
+                "calificacion": 1.99,
+                "fecha": "2022-04-18"
+            },
+            {
+                "id_calificacion": 477,
+                "id_estudiante": 89,
+                "id_profesor": 15,
+                "id_curso": 5,
+                "calificacion": 2.24,
+                "fecha": "2023-01-15"
+            },
+            {
+                "id_calificacion": 478,
+                "id_estudiante": 87,
+                "id_profesor": 7,
+                "id_curso": 5,
+                "calificacion": 9.56,
+                "fecha": "2023-02-01"
+            },
+            {
+                "id_calificacion": 479,
+                "id_estudiante": 75,
+                "id_profesor": 6,
+                "id_curso": 7,
+                "calificacion": 4.82,
+                "fecha": "2022-04-15"
+            },
+            {
+                "id_calificacion": 480,
+                "id_estudiante": 36,
+                "id_profesor": 6,
+                "id_curso": 5,
+                "calificacion": 1.86,
+                "fecha": "2020-05-24"
+            },
+            {
+                "id_calificacion": 481,
+                "id_estudiante": 21,
+                "id_profesor": 13,
+                "id_curso": 6,
+                "calificacion": 6.73,
+                "fecha": "2023-10-13"
+            },
+            {
+                "id_calificacion": 482,
+                "id_estudiante": 17,
+                "id_profesor": 13,
+                "id_curso": 5,
+                "calificacion": 4.29,
+                "fecha": "2021-04-04"
+            },
+            {
+                "id_calificacion": 483,
+                "id_estudiante": 10,
+                "id_profesor": 3,
+                "id_curso": 4,
+                "calificacion": 8.46,
+                "fecha": "2021-11-01"
+            },
+            {
+                "id_calificacion": 484,
+                "id_estudiante": 18,
+                "id_profesor": 4,
+                "id_curso": 10,
+                "calificacion": 3.29,
+                "fecha": "2023-01-12"
+            },
+            {
+                "id_calificacion": 485,
+                "id_estudiante": 87,
+                "id_profesor": 1,
+                "id_curso": 2,
+                "calificacion": 7.34,
+                "fecha": "2020-06-11"
+            },
+            {
+                "id_calificacion": 486,
+                "id_estudiante": 93,
+                "id_profesor": 12,
+                "id_curso": 6,
+                "calificacion": 9.34,
+                "fecha": "2023-08-10"
+            },
+            {
+                "id_calificacion": 487,
+                "id_estudiante": 29,
+                "id_profesor": 13,
+                "id_curso": 4,
+                "calificacion": 9.09,
+                "fecha": "2022-09-03"
+            },
+            {
+                "id_calificacion": 488,
+                "id_estudiante": 17,
+                "id_profesor": 2,
+                "id_curso": 8,
+                "calificacion": 2.43,
+                "fecha": "2023-08-21"
+            },
+            {
+                "id_calificacion": 489,
+                "id_estudiante": 42,
+                "id_profesor": 10,
+                "id_curso": 2,
+                "calificacion": 9.66,
+                "fecha": "2020-08-03"
+            },
+            {
+                "id_calificacion": 490,
+                "id_estudiante": 52,
+                "id_profesor": 10,
+                "id_curso": 9,
+                "calificacion": 3.63,
+                "fecha": "2021-08-28"
+            },
+            {
+                "id_calificacion": 491,
+                "id_estudiante": 36,
+                "id_profesor": 19,
+                "id_curso": 10,
+                "calificacion": 1.35,
+                "fecha": "2022-10-04"
+            },
+            {
+                "id_calificacion": 492,
+                "id_estudiante": 99,
+                "id_profesor": 9,
+                "id_curso": 3,
+                "calificacion": 1.92,
+                "fecha": "2023-11-22"
+            },
+            {
+                "id_calificacion": 493,
+                "id_estudiante": 26,
+                "id_profesor": 3,
+                "id_curso": 2,
+                "calificacion": 4.89,
+                "fecha": "2021-11-04"
+            },
+            {
+                "id_calificacion": 494,
+                "id_estudiante": 85,
+                "id_profesor": 2,
+                "id_curso": 10,
+                "calificacion": 4.54,
+                "fecha": "2020-02-05"
+            },
+            {
+                "id_calificacion": 495,
+                "id_estudiante": 55,
+                "id_profesor": 11,
+                "id_curso": 6,
+                "calificacion": 2.88,
+                "fecha": "2021-05-29"
+            },
+            {
+                "id_calificacion": 496,
+                "id_estudiante": 94,
+                "id_profesor": 3,
+                "id_curso": 9,
+                "calificacion": 5.96,
+                "fecha": "2023-01-15"
+            },
+            {
+                "id_calificacion": 497,
+                "id_estudiante": 91,
+                "id_profesor": 9,
+                "id_curso": 2,
+                "calificacion": 8.03,
+                "fecha": "2023-08-28"
+            },
+            {
+                "id_calificacion": 498,
+                "id_estudiante": 23,
+                "id_profesor": 17,
+                "id_curso": 3,
+                "calificacion": 2.38,
+                "fecha": "2023-06-11"
+            },
+            {
+                "id_calificacion": 499,
+                "id_estudiante": 52,
+                "id_profesor": 12,
+                "id_curso": 4,
+                "calificacion": 6.36,
+                "fecha": "2023-04-08"
+            },
+            {
+                "id_calificacion": 500,
+                "id_estudiante": 53,
+                "id_profesor": 6,
+                "id_curso": 2,
+                "calificacion": 2.49,
+                "fecha": "2023-05-08"
+            }
+        ]
+    }
+}
